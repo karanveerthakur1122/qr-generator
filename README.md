@@ -3,7 +3,7 @@
 > **Developer:** Karan Veer Thakur  
 > **GitHub:** [karanveerthakur1122](https://github.com/karanveerthakur1122)  
 > **Portfolio:** [karanveerthakur.com.np](https://karanveerthakur.com.np)
-> **Live Link:** [https://qr-generator-free-app.netlify.app/]([url](https://qr-generator-free-app.netlify.app/) 
+> **Live Link:** [https://qr-generator-free-app.netlify.app/](https://qr-generator-free-app.netlify.app/) 
 A comprehensive React web application for generating highly customizable QR codes from various types of data including text, URLs, contact information, and more.
 
 ## 🚀 Live Demo
