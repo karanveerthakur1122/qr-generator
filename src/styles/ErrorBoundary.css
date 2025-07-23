@@ -1,0 +1,232 @@
+/* Error Boundary Styles */
+.error-boundary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  padding: 2rem;
+  background: linear-gradient(135deg, #fee2e2 0%, #fef2f2 100%);
+  border-radius: 12px;
+  margin: 1rem 0;
+}
+
+.error-container {
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(220, 53, 69, 0.15);
+  border: 1px solid #f5c6cb;
+}
+
+.error-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+.error-container h2 {
+  color: #dc3545;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.error-content {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.error-message {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #721c24;
+  background: #f8d7da;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border-left: 4px solid #dc3545;
+}
+
+.error-details {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 4px solid #6c757d;
+}
+
+.error-details p {
+  margin: 0.5rem 0;
+  color: #495057;
+}
+
+.error-suggestions {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #d1ecf1;
+  border-radius: 6px;
+  border-left: 4px solid #17a2b8;
+}
+
+.error-suggestions h4 {
+  margin: 0 0 0.5rem 0;
+  color: #0c5460;
+  font-size: 1rem;
+}
+
+.error-suggestions ul {
+  margin: 0;
+  padding-left: 1.5rem;
+  color: #0c5460;
+}
+
+.error-suggestions li {
+  margin: 0.5rem 0;
+  line-height: 1.4;
+}
+
+.error-details-technical {
+  margin: 1rem 0;
+  text-align: left;
+}
+
+.error-details-technical summary {
+  cursor: pointer;
+  color: #6c757d;
+  font-weight: 500;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.error-details-technical pre {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+  border: 1px solid #dee2e6;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  color: #495057;
+}
+
+.error-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.retry-button,
+.clear-button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 140px;
+}
+
+.retry-button {
+  background: #28a745;
+  color: white;
+}
+
+.retry-button:hover {
+  background: #218838;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+}
+
+.clear-button {
+  background: #6c757d;
+  color: white;
+}
+
+.clear-button:hover {
+  background: #5a6268;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(108, 117, 125, 0.3);
+}
+
+/* Dark mode styles */
+body.dark-mode .error-boundary {
+  background: linear-gradient(135deg, #2d1b1b 0%, #1a1a1a 100%);
+}
+
+body.dark-mode .error-container {
+  background: #1e293b;
+  border-color: #dc3545;
+  color: #e2e8f0;
+}
+
+body.dark-mode .error-container h2 {
+  color: #ff6b6b;
+}
+
+body.dark-mode .error-message {
+  background: #2d1b1b;
+  color: #ff9999;
+  border-left-color: #ff6b6b;
+}
+
+body.dark-mode .error-details {
+  background: #374151;
+  border-left-color: #9ca3af;
+  color: #d1d5db;
+}
+
+body.dark-mode .error-suggestions {
+  background: #1e3a48;
+  border-left-color: #3b82f6;
+}
+
+body.dark-mode .error-suggestions h4,
+body.dark-mode .error-suggestions li {
+  color: #7dd3fc;
+}
+
+body.dark-mode .error-details-technical summary {
+  background: #374151;
+  color: #d1d5db;
+}
+
+body.dark-mode .error-details-technical pre {
+  background: #374151;
+  border-color: #4b5563;
+  color: #d1d5db;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .error-boundary {
+    padding: 1rem;
+    min-height: 300px;
+  }
+  
+  .error-container {
+    padding: 1.5rem;
+  }
+  
+  .error-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .retry-button,
+  .clear-button {
+    width: 100%;
+    max-width: 200px;
+  }
+}

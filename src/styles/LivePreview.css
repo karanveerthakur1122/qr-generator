@@ -1,0 +1,90 @@
+/* Live Preview Styles */
+.live-preview {
+  position: sticky;
+  top: 1rem;
+  background: rgba(255, 255, 255, 0.95);
+  border: 2px solid #e1e5e9;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-top: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  animation: slideInFromTop 0.3s ease-out;
+}
+
+.live-preview-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.live-preview-header h3 {
+  font-size: 1rem;
+  margin: 0 0 0.25rem 0;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.live-preview-header p {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0;
+  font-style: italic;
+}
+
+.live-preview-qr {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e1e5e9;
+}
+
+.live-preview-qr svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Dark mode styles */
+body.dark-mode .live-preview {
+  background: rgba(52, 73, 94, 0.95);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+body.dark-mode .live-preview-header h3,
+body.dark-mode .live-preview-header p {
+  color: #ecf0f1;
+}
+
+body.dark-mode .live-preview-qr {
+  background: white;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Animation */
+@keyframes slideInFromTop {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .live-preview {
+    position: static;
+    margin-top: 1rem;
+  }
+  
+  .live-preview-qr {
+    padding: 0.25rem;
+  }
+}
