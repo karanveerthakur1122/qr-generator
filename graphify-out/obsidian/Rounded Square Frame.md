@@ -1,11 +1,11 @@
 ---
 source_file: "public/favicon.svg"
 type: "image"
-community: "Favicon Branding"
+community: "Brand Assets"
 tags:
   - graphify/image
   - graphify/EXTRACTED
-  - community/Favicon_Branding
+  - community/Brand_Assets
 ---
 
 # Rounded Square Frame
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Favicon SVG]] - `references` [EXTRACTED]
 
-#graphify/image #graphify/EXTRACTED #community/Favicon_Branding
+#graphify/image #graphify/EXTRACTED #community/Brand_Assets

@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\export.ts"
 type: "code"
-community: "QR Engine & Export"
+community: "Export Step UI"
 location: "L151"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Engine_&_Export
+  - community/Export_Step_UI
 ---
 
 # copyTextToClipboard()
@@ -15,4 +15,4 @@ tags:
 - [[async()]] - `calls` [INFERRED]
 - [[export.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Engine_&_Export
+#graphify/code #graphify/EXTRACTED #community/Export_Step_UI

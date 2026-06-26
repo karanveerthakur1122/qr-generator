@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\wizard\step-type.tsx"
 type: "code"
-community: "Wizard Type Step"
-location: "L15"
+community: "Type Selection"
+location: "L13"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Wizard_Type_Step
+  - community/Type_Selection
 ---
 
 # handleSelect()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[step-type.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Wizard_Type_Step
+#graphify/code #graphify/EXTRACTED #community/Type_Selection

@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\forms\qr-form.tsx"
 type: "code"
-community: "QR Form"
+community: "Form Validation"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Form
+  - community/Form_Validation
 ---
 
 # qr-form.tsx
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[QRForm()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Form
+#graphify/code #graphify/EXTRACTED #community/Form_Validation

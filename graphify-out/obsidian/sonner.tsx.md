@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\ui\sonner.tsx"
 type: "code"
-community: "Theme Toggle"
+community: "Theme System"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Theme_Toggle
+  - community/Theme_System
 ---
 
 # sonner.tsx
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Toaster()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Theme_Toggle
+#graphify/code #graphify/EXTRACTED #community/Theme_System

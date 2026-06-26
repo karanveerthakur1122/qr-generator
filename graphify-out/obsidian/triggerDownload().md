@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\export.ts"
 type: "code"
-community: "QR Engine & Export"
+community: "Export Pipeline"
 location: "L18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Engine_&_Export
+  - community/Export_Pipeline
 ---
 
 # triggerDownload()
@@ -17,4 +17,4 @@ tags:
 - [[exportPNG()]] - `calls` [EXTRACTED]
 - [[exportSVG()]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Engine_&_Export
+#graphify/code #graphify/EXTRACTED #community/Export_Pipeline

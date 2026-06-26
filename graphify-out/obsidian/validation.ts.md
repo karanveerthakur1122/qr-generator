@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\validation.ts"
 type: "code"
-community: "QR Form"
+community: "Form Validation"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Form
+  - community/Form_Validation
 ---
 
 # validation.ts
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[getSchema()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Form
+#graphify/code #graphify/EXTRACTED #community/Form_Validation

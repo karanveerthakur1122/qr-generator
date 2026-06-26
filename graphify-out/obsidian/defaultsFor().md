@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\forms\field-config.ts"
 type: "code"
-community: "QR Form"
+community: "Form Validation"
 location: "L218"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Form
+  - community/Form_Validation
 ---
 
 # defaultsFor()
@@ -15,4 +15,4 @@ tags:
 - [[QRForm()]] - `calls` [INFERRED]
 - [[field-config.ts]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Form
+#graphify/code #graphify/EXTRACTED #community/Form_Validation

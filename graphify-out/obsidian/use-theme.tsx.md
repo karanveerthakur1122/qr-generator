@@ -1,12 +1,12 @@
 ---
 source_file: "src\hooks\use-theme.tsx"
 type: "code"
-community: "Theme Toggle"
+community: "Theme System"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Theme_Toggle
+  - community/Theme_System
 ---
 
 # use-theme.tsx
@@ -16,4 +16,4 @@ tags:
 - [[getInitialTheme()]] - `contains` [EXTRACTED]
 - [[useTheme()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Theme_Toggle
+#graphify/code #graphify/EXTRACTED #community/Theme_System

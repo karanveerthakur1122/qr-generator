@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\forms\qr-form.tsx"
 type: "code"
-community: "QR Form"
+community: "Form Validation"
 location: "L28"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/QR_Form
+  - community/Form_Validation
 ---
 
 # QRForm()
@@ -16,4 +16,4 @@ tags:
 - [[getSchema()]] - `calls` [INFERRED]
 - [[qr-form.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/QR_Form
+#graphify/code #graphify/INFERRED #community/Form_Validation

@@ -1,61 +1,36 @@
-# Graph Report - .  (2026-06-26)
+# Graph Report - src  (2026-06-26)
 
 ## Corpus Check
-- Corpus is ~22,036 words - fits in a single context window. You may not need a graph.
+- 49 files · ~81,666 words
+- Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 273 nodes · 271 edges · 66 communities detected
-- Extraction: 79% EXTRACTED · 20% INFERRED · 1% AMBIGUOUS · INFERRED: 54 edges (avg confidence: 0.56)
-- Token cost: 4,200 input · 2,800 output
+- 108 nodes · 86 edges · 44 communities detected
+- Extraction: 86% EXTRACTED · 14% INFERRED · 0% AMBIGUOUS · INFERRED: 12 edges (avg confidence: 0.78)
+- Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)
-- [[_COMMUNITY_Custom QR Engine|Custom QR Engine]]
-- [[_COMMUNITY_QR Engine & Export|QR Engine & Export]]
-- [[_COMMUNITY_README Features|README Features]]
-- [[_COMMUNITY_Legacy Docs Hub|Legacy Docs Hub]]
-- [[_COMMUNITY_Deployment & Branding|Deployment & Branding]]
-- [[_COMMUNITY_QR Data Service|QR Data Service]]
-- [[_COMMUNITY_Custom QR Styles|Custom QR Styles]]
-- [[_COMMUNITY_QR Preview & Payloads|QR Preview & Payloads]]
-- [[_COMMUNITY_Preview & Display|Preview & Display]]
-- [[_COMMUNITY_Favicon Branding|Favicon Branding]]
-- [[_COMMUNITY_Theme Toggle|Theme Toggle]]
-- [[_COMMUNITY_Error Boundary|Error Boundary]]
-- [[_COMMUNITY_QR Form|QR Form]]
-- [[_COMMUNITY_React 19|React 19]]
+- [[_COMMUNITY_Export Pipeline|Export Pipeline]]
+- [[_COMMUNITY_Payload Builders|Payload Builders]]
+- [[_COMMUNITY_Theme System|Theme System]]
+- [[_COMMUNITY_Brand Assets|Brand Assets]]
+- [[_COMMUNITY_Form Validation|Form Validation]]
+- [[_COMMUNITY_QR Render Engine|QR Render Engine]]
+- [[_COMMUNITY_Export Step UI|Export Step UI]]
 - [[_COMMUNITY_Batch Generator|Batch Generator]]
 - [[_COMMUNITY_Wizard Content|Wizard Content]]
-- [[_COMMUNITY_QR Data Generation|QR Data Generation]]
-- [[_COMMUNITY_Footer Component|Footer Component]]
-- [[_COMMUNITY_App Root|App Root]]
+- [[_COMMUNITY_App Shell|App Shell]]
 - [[_COMMUNITY_History Drawer|History Drawer]]
+- [[_COMMUNITY_Footer|Footer]]
 - [[_COMMUNITY_Customization Panel|Customization Panel]]
-- [[_COMMUNITY_QR Studio Entry|QR Studio Entry]]
-- [[_COMMUNITY_Legacy App|Legacy App]]
-- [[_COMMUNITY_QR Service Functions|QR Service Functions]]
-- [[_COMMUNITY_App Root Component|App Root Component]]
-- [[_COMMUNITY_Custom QR Component|Custom QR Component]]
-- [[_COMMUNITY_Web Vitals|Web Vitals]]
 - [[_COMMUNITY_Glass Background|Glass Background]]
 - [[_COMMUNITY_Type Icons|Type Icons]]
-- [[_COMMUNITY_Wizard Design Step|Wizard Design Step]]
-- [[_COMMUNITY_Wizard Type Step|Wizard Type Step]]
+- [[_COMMUNITY_Design Step|Design Step]]
+- [[_COMMUNITY_Type Selection|Type Selection]]
 - [[_COMMUNITY_Utils|Utils]]
-- [[_COMMUNITY_Graph Report|Graph Report]]
-- [[_COMMUNITY_Legacy Footer|Legacy Footer]]
-- [[_COMMUNITY_Live Preview|Live Preview]]
-- [[_COMMUNITY_QR Engine Docs|QR Engine Docs]]
-- [[_COMMUNITY_QR Display|QR Display]]
-- [[_COMMUNITY_QR Customization|QR Customization]]
-- [[_COMMUNITY_Report Web Vitals|Report Web Vitals]]
-- [[_COMMUNITY_App Entry Point|App Entry Point]]
-- [[_COMMUNITY_App Test Suite|App Test Suite]]
-- [[_COMMUNITY_Test Setup|Test Setup]]
-- [[_COMMUNITY_Robots.txt|Robots.txt]]
-- [[_COMMUNITY_Vite Config|Vite Config]]
-- [[_COMMUNITY_Vite Env Types|Vite Env Types]]
+- [[_COMMUNITY_Vite Types|Vite Types]]
 - [[_COMMUNITY_Glass Card|Glass Card]]
-- [[_COMMUNITY_Header Layout|Header Layout]]
+- [[_COMMUNITY_Header|Header]]
 - [[_COMMUNITY_QR Canvas|QR Canvas]]
 - [[_COMMUNITY_Button UI|Button UI]]
 - [[_COMMUNITY_Dialog UI|Dialog UI]]
@@ -73,351 +48,233 @@
 - [[_COMMUNITY_Wizard Shell|Wizard Shell]]
 - [[_COMMUNITY_History Store|History Store]]
 - [[_COMMUNITY_Wizard Store|Wizard Store]]
-- [[_COMMUNITY_Legacy Index|Legacy Index]]
-- [[_COMMUNITY_Setup Tests|Setup Tests]]
+- [[_COMMUNITY_App Entry|App Entry]]
+- [[_COMMUNITY_Brand Identity|Brand Identity]]
+- [[_COMMUNITY_React PWA Icon|React PWA Icon]]
+- [[_COMMUNITY_React Logo 192|React Logo 192]]
+- [[_COMMUNITY_React Logo 512|React Logo 512]]
+- [[_COMMUNITY_Legacy PWA Icon|Legacy PWA Icon]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `App Features Documentation` - 13 edges
-2. `QR Code Generator` - 11 edges
-3. `QR Code Generator` - 10 edges
-4. `renderFullCanvas()` - 8 edges
-5. `Custom QR Engine` - 8 edges
-6. `Custom QR Engine` - 8 edges
-7. `Netlify Deployment` - 8 edges
-8. `React Framework Branding` - 7 edges
-9. `buildPayload()` - 6 edges
-10. `ErrorBoundary` - 6 edges
+1. `renderFullCanvas()` - 8 edges
+2. `buildPayload()` - 6 edges
+3. `Favicon SVG` - 5 edges
+4. `drawMatrixToCanvas()` - 4 edges
+5. `triggerDownload()` - 4 edges
+6. `exportSVG()` - 4 edges
+7. `QRForm()` - 3 edges
+8. `useTheme()` - 3 edges
+9. `createMatrix()` - 3 edges
+10. `pickDrawOptions()` - 3 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Error Boundaries` --conceptually_related_to--> `ErrorBoundary`  [INFERRED]
-  DEPLOYMENT_SUMMARY.md → src/components/ErrorBoundary.js
-- `CustomQRCode()` --conceptually_related_to--> `Custom QR Engine`  [INFERRED]
-  src/components/CustomQRCode.js → DEPLOYMENT_SUMMARY.md
-- `React Logo (PWA Icon)` --conceptually_related_to--> `React.js`  [INFERRED]
-  public/logo192.png → README.md
-- `Dark Mode Toggle` --conceptually_related_to--> `DarkModeToggle()`  [INFERRED]
-  README.md → src/components/DarkModeToggle.js
-- `DataTypeSelector Component` --conceptually_related_to--> `DataTypeSelector()`  [INFERRED]
-  README.md → src/components/DataTypeSelector.js
+- `useLivePayload()` --calls--> `buildPayload()`  [INFERRED]
+  src\components\qr\qr-preview.tsx → src\lib\qr\payloads.ts
+- `renderFullCanvas()` --calls--> `drawMatrixToCanvas()`  [INFERRED]
+  src\lib\qr\export.ts → src\lib\qr\engine.ts
+- `exportSVG()` --calls--> `matrixToSVGString()`  [INFERRED]
+  src\lib\qr\export.ts → src\lib\qr\engine.ts
+- `QRForm()` --calls--> `defaultsFor()`  [INFERRED]
+  src\components\forms\qr-form.tsx → src\components\forms\field-config.ts
+- `QRForm()` --calls--> `getSchema()`  [INFERRED]
+  src\components\forms\qr-form.tsx → src\lib\qr\validation.ts
 
 ## Communities
 
-### Community 0 - "Custom QR Engine"
-Cohesion: 0.12
-Nodes (21): Rounded QR Style, SEO Meta Tags, SVG Rendering, App Features Documentation, Dark Mode Toggle, DataTypeSelector Component, Error Boundaries, Karan Veer Thakur (+13 more)
+### Community 0 - "Export Pipeline"
+Cohesion: 0.4
+Nodes (9): createMatrix(), copyImageToClipboard(), exportJPG(), exportPDF(), exportPNG(), exportSVG(), loadImage(), renderFullCanvas() (+1 more)
 
-### Community 1 - "QR Engine & Export"
-Cohesion: 0.17
-Nodes (15): createMatrix(), drawMatrixToCanvas(), matrixToSVGString(), pickDrawOptions(), roundRect(), copyImageToClipboard(), copyTextToClipboard(), exportJPG() (+7 more)
-
-### Community 2 - "README Features"
-Cohesion: 0.11
-Nodes (18): Netlify Deployment, PWA Manifest, buildnetlify Script, Dark Mode Toggle, DataTypeSelector Component, Error Boundaries, Karan Veer Thakur, Live Preview (+10 more)
-
-### Community 3 - "Legacy Docs Hub"
-Cohesion: 0.12
-Nodes (16): DarkModeToggle(), build:netlify Script, Netlify Deployment, PWA Manifest, SEO Meta Tags, Dark Mode Toggle, Dark Mode Toggle, DataTypeSelector Component (+8 more)
-
-### Community 4 - "Deployment & Branding"
-Cohesion: 0.18
-Nodes (17): App Features Documentation, Netlify Deployment, React Framework Branding, buildnetlify Script, Netlify Deployment, netlify.toml, PWA Manifest, React 19 (+9 more)
-
-### Community 5 - "QR Data Service"
-Cohesion: 0.22
-Nodes (11): Data Input Form, Data Type Selector, QR Data Service, DataInputForm(), DataTypeSelector(), Dataview plugin, generateQRData(), generateVCard() (+3 more)
-
-### Community 6 - "Custom QR Styles"
-Cohesion: 0.2
-Nodes (9): CustomQRCode(), react-qr-code Library, Custom QR Engine, Dots QR Style, Dots QR Style, qrcode.js Library, Rounded QR Style, Rounded QR Style (+1 more)
-
-### Community 7 - "QR Preview & Payloads"
+### Community 1 - "Payload Builders"
 Cohesion: 0.33
 Nodes (6): buildEvent(), buildPayload(), buildPayment(), buildVCard(), escapeWifi(), useLivePayload()
 
-### Community 8 - "Preview & Display"
-Cohesion: 0.31
-Nodes (6): Live Preview Component, QR Code Display, QR Customization Panel, LivePreview(), QRCodeDisplay(), QRCustomization()
-
-### Community 9 - "Favicon Branding"
-Cohesion: 0.31
-Nodes (9): QR Data Modules, Emerald-to-Purple Gradient, Favicon SVG, QR Finder Patterns, PWA App Icon, QR Studio Brand Identity, Rounded Square Frame, Slate Dark Background (+1 more)
-
-### Community 10 - "Theme Toggle"
+### Community 2 - "Theme System"
 Cohesion: 0.25
 Nodes (3): Toaster(), ThemeToggle(), useTheme()
 
-### Community 11 - "Error Boundary"
-Cohesion: 0.57
-Nodes (3): Error Boundary Module, ErrorBoundary, ErrorBoundary
+### Community 3 - "Brand Assets"
+Cohesion: 0.32
+Nodes (8): QR Data Modules, Emerald-to-Purple Gradient, Favicon SVG, QR Finder Patterns, PWA App Icon, Rounded Square Frame, Slate Dark Background, Stylized QR Code Icon
 
-### Community 12 - "QR Form"
+### Community 4 - "Form Validation"
 Cohesion: 0.33
 Nodes (3): defaultsFor(), QRForm(), getSchema()
 
-### Community 13 - "React 19"
-Cohesion: 0.33
-Nodes (6): React 19, React Atom SVG, PWA Manifest Link, React Logo (PWA Icon), React Logo 512px, React.js
+### Community 5 - "QR Render Engine"
+Cohesion: 0.53
+Nodes (4): drawMatrixToCanvas(), matrixToSVGString(), pickDrawOptions(), roundRect()
 
-### Community 14 - "Batch Generator"
+### Community 6 - "Export Step UI"
+Cohesion: 0.4
+Nodes (2): copyTextToClipboard(), async()
+
+### Community 7 - "Batch Generator"
 Cohesion: 0.5
 Nodes (0): 
 
-### Community 15 - "Wizard Content"
+### Community 8 - "Wizard Content"
 Cohesion: 0.5
 Nodes (2): StepContent(), getTypeMeta()
 
-### Community 16 - "QR Data Generation"
-Cohesion: 0.5
-Nodes (0): 
-
-### Community 17 - "Footer Component"
-Cohesion: 0.67
-Nodes (2): Footer Component, Footer()
-
-### Community 18 - "App Root"
+### Community 9 - "App Shell"
 Cohesion: 0.67
 Nodes (0): 
 
-### Community 19 - "History Drawer"
+### Community 10 - "History Drawer"
 Cohesion: 0.67
 Nodes (0): 
 
-### Community 20 - "Customization Panel"
+### Community 11 - "Footer"
 Cohesion: 0.67
 Nodes (0): 
 
-### Community 21 - "QR Studio Entry"
+### Community 12 - "Customization Panel"
 Cohesion: 0.67
-Nodes (2): Karan Veer Thakur, QR Studio
+Nodes (0): 
 
-### Community 22 - "Legacy App"
-Cohesion: 0.67
-Nodes (1): App()
-
-### Community 23 - "QR Service Functions"
-Cohesion: 1.0
-Nodes (2): generateQRData(), generateVCard()
-
-### Community 24 - "App Root Component"
-Cohesion: 0.67
-Nodes (1): App Root Component
-
-### Community 25 - "Custom QR Component"
-Cohesion: 0.67
-Nodes (1): Custom QR Code Component
-
-### Community 26 - "Web Vitals"
-Cohesion: 1.0
-Nodes (2): Web Vitals Reporting, reportWebVitals()
-
-### Community 27 - "Glass Background"
+### Community 13 - "Glass Background"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 28 - "Type Icons"
+### Community 14 - "Type Icons"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 29 - "Wizard Design Step"
+### Community 15 - "Design Step"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 30 - "Wizard Type Step"
+### Community 16 - "Type Selection"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 31 - "Utils"
+### Community 17 - "Utils"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 32 - "Graph Report"
-Cohesion: 1.0
-Nodes (2): Graph Report, Knowledge Graph Visualization
-
-### Community 33 - "Legacy Footer"
+### Community 18 - "Vite Types"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 34 - "Live Preview"
+### Community 19 - "Glass Card"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 35 - "QR Engine Docs"
-Cohesion: 1.0
-Nodes (2): Custom QR Engine, qrcode.js Library
-
-### Community 36 - "QR Display"
+### Community 20 - "Header"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 37 - "QR Customization"
+### Community 21 - "QR Canvas"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 38 - "Report Web Vitals"
+### Community 22 - "Button UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 39 - "App Entry Point"
-Cohesion: 1.0
-Nodes (1): App Entry Point
-
-### Community 40 - "App Test Suite"
-Cohesion: 1.0
-Nodes (1): App Test Suite
-
-### Community 41 - "Test Setup"
-Cohesion: 1.0
-Nodes (1): Test Setup Config
-
-### Community 42 - "Robots.txt"
-Cohesion: 1.0
-Nodes (1): robotstxt.org
-
-### Community 43 - "Vite Config"
+### Community 23 - "Dialog UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 44 - "Vite Env Types"
+### Community 24 - "Input UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 45 - "Glass Card"
+### Community 25 - "Label UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 46 - "Header Layout"
+### Community 26 - "Progress UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 47 - "QR Canvas"
+### Community 27 - "Radio Group UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 48 - "Button UI"
+### Community 28 - "Select UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 49 - "Dialog UI"
+### Community 29 - "Slider UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 50 - "Input UI"
+### Community 30 - "Switch UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 51 - "Label UI"
+### Community 31 - "Tabs UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 52 - "Progress UI"
+### Community 32 - "Textarea UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 53 - "Radio Group UI"
+### Community 33 - "Tooltip UI"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 54 - "Select UI"
+### Community 34 - "Stepper"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 55 - "Slider UI"
+### Community 35 - "Wizard Shell"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 56 - "Switch UI"
+### Community 36 - "History Store"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 57 - "Tabs UI"
+### Community 37 - "Wizard Store"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 58 - "Textarea UI"
+### Community 38 - "App Entry"
 Cohesion: 1.0
 Nodes (0): 
 
-### Community 59 - "Tooltip UI"
+### Community 39 - "Brand Identity"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): QR Studio Brand Identity
 
-### Community 60 - "Stepper"
+### Community 40 - "React PWA Icon"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): React Logo (PWA Icon)
 
-### Community 61 - "Wizard Shell"
+### Community 41 - "React Logo 192"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): React Logo (PWA Icon)
 
-### Community 62 - "History Store"
+### Community 42 - "React Logo 512"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): React Logo 512px
 
-### Community 63 - "Wizard Store"
+### Community 43 - "Legacy PWA Icon"
 Cohesion: 1.0
-Nodes (0): 
-
-### Community 64 - "Legacy Index"
-Cohesion: 1.0
-Nodes (0): 
-
-### Community 65 - "Setup Tests"
-Cohesion: 1.0
-Nodes (0): 
-
-## Ambiguous Edges - Review These
-- `App()` → `App.test.js`  [AMBIGUOUS]
-  src/App.test.js · relation: references
-- `Dark Mode Toggle` → `Dark Mode Toggle`  [AMBIGUOUS]
-  graphify-out/obsidian/_COMMUNITY_App Features Documentation.md · relation: conceptually_related_to
-- `Netlify Hosting` → `App Features Documentation`  [AMBIGUOUS]
-  graphify-out/obsidian/_COMMUNITY_Netlify Deployment.md · relation: conceptually_related_to
-- `PWA Manifest Link` → `App Features Documentation`  [AMBIGUOUS]
-  graphify-out/obsidian/_COMMUNITY_Netlify Deployment.md · relation: conceptually_related_to
+Nodes (1): React Logo 512px
 
 ## Knowledge Gaps
-- **53 isolated node(s):** `PWA Manifest`, `build:netlify Script`, `qrcode.js Library`, `SVG Rendering`, `React 19` (+48 more)
+- **8 isolated node(s):** `Slate Dark Background`, `Rounded Square Frame`, `PWA App Icon`, `QR Studio Brand Identity`, `React Logo (PWA Icon)` (+3 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **Thin community `Glass Background`** (2 nodes): `GlassBackground()`, `glass-background.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Type Icons`** (2 nodes): `type-icon.tsx`, `TypeIcon()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Wizard Design Step`** (2 nodes): `step-design.tsx`, `StepDesign()`
+- **Thin community `Design Step`** (2 nodes): `step-design.tsx`, `StepDesign()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Wizard Type Step`** (2 nodes): `step-type.tsx`, `handleSelect()`
+- **Thin community `Type Selection`** (2 nodes): `step-type.tsx`, `handleSelect()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Utils`** (2 nodes): `utils.ts`, `cn()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Graph Report`** (2 nodes): `Graph Report`, `Knowledge Graph Visualization`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Legacy Footer`** (2 nodes): `Footer()`, `Footer.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Live Preview`** (2 nodes): `LivePreview()`, `LivePreview.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `QR Engine Docs`** (2 nodes): `Custom QR Engine`, `qrcode.js Library`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `QR Display`** (2 nodes): `QRCodeDisplay()`, `QRCodeDisplay.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `QR Customization`** (2 nodes): `QRCustomization()`, `QRCustomization.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Report Web Vitals`** (2 nodes): `reportWebVitals()`, `reportWebVitals.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `App Entry Point`** (2 nodes): `App Entry Point`, `index.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `App Test Suite`** (2 nodes): `App Test Suite`, `App.test.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Test Setup`** (2 nodes): `Test Setup Config`, `setupTests.js`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Robots.txt`** (2 nodes): `robots.txt`, `robotstxt.org`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Vite Config`** (1 nodes): `vite.config.ts`
-  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Vite Env Types`** (1 nodes): `vite-env.d.ts`
+- **Thin community `Vite Types`** (1 nodes): `vite-env.d.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Glass Card`** (1 nodes): `glass-card.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Header Layout`** (1 nodes): `header.tsx`
+- **Thin community `Header`** (1 nodes): `header.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `QR Canvas`** (1 nodes): `qr-canvas.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
@@ -453,25 +310,27 @@ Nodes (0):
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 - **Thin community `Wizard Store`** (1 nodes): `wizardStore.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Legacy Index`** (1 nodes): `index.js`
+- **Thin community `App Entry`** (1 nodes): `main.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Setup Tests`** (1 nodes): `setupTests.js`
+- **Thin community `Brand Identity`** (1 nodes): `QR Studio Brand Identity`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `React PWA Icon`** (1 nodes): `React Logo (PWA Icon)`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `React Logo 192`** (1 nodes): `React Logo (PWA Icon)`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `React Logo 512`** (1 nodes): `React Logo 512px`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Legacy PWA Icon`** (1 nodes): `React Logo 512px`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **What is the exact relationship between `App()` and `App.test.js`?**
-  _Edge tagged AMBIGUOUS (relation: references) - confidence is low._
-- **What is the exact relationship between `Dark Mode Toggle` and `Dark Mode Toggle`?**
-  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
-- **What is the exact relationship between `Netlify Hosting` and `App Features Documentation`?**
-  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
-- **What is the exact relationship between `PWA Manifest Link` and `App Features Documentation`?**
-  _Edge tagged AMBIGUOUS (relation: conceptually_related_to) - confidence is low._
-- **Why does `QR Code Generator` connect `Legacy Docs Hub` to `Deployment & Branding`, `Custom QR Styles`?**
-  _High betweenness centrality (0.027) - this node is a cross-community bridge._
-- **Why does `React.js` connect `Deployment & Branding` to `Legacy Docs Hub`?**
-  _High betweenness centrality (0.014) - this node is a cross-community bridge._
-- **Are the 2 inferred relationships involving `QR Code Generator` (e.g. with `Error Boundaries` and `SEO Meta Tags`) actually correct?**
-  _`QR Code Generator` has 2 INFERRED edges - model-reasoned connections that need verification._
+- **Why does `copyTextToClipboard()` connect `Export Step UI` to `Export Pipeline`?**
+  _High betweenness centrality (0.011) - this node is a cross-community bridge._
+- **Why does `renderFullCanvas()` connect `Export Pipeline` to `QR Render Engine`?**
+  _High betweenness centrality (0.011) - this node is a cross-community bridge._
+- **Are the 2 inferred relationships involving `renderFullCanvas()` (e.g. with `createMatrix()` and `drawMatrixToCanvas()`) actually correct?**
+  _`renderFullCanvas()` has 2 INFERRED edges - model-reasoned connections that need verification._
+- **What connects `Slate Dark Background`, `Rounded Square Frame`, `PWA App Icon` to the rest of the system?**
+  _8 weakly-connected nodes found - possible documentation gaps or missing edges._

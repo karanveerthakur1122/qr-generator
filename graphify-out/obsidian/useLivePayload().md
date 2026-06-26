@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\qr\qr-preview.tsx"
 type: "code"
-community: "QR Preview & Payloads"
-location: "L11"
+community: "Payload Builders"
+location: "L10"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Preview_&_Payloads
+  - community/Payload_Builders
 ---
 
 # useLivePayload()
@@ -15,4 +15,4 @@ tags:
 - [[buildPayload()]] - `calls` [INFERRED]
 - [[qr-preview.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Preview_&_Payloads
+#graphify/code #graphify/EXTRACTED #community/Payload_Builders

@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\payloads.ts"
 type: "code"
-community: "QR Preview & Payloads"
+community: "Payload Builders"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Preview_&_Payloads
+  - community/Payload_Builders
 ---
 
 # payloads.ts
@@ -18,4 +18,4 @@ tags:
 - [[buildVCard()]] - `contains` [EXTRACTED]
 - [[escapeWifi()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Preview_&_Payloads
+#graphify/code #graphify/EXTRACTED #community/Payload_Builders

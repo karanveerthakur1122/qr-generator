@@ -1,12 +1,12 @@
 ---
 source_file: "src\main.tsx"
 type: "code"
-community: "App Root"
+community: "App Shell"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/App_Root
+  - community/App_Shell
 ---
 
 # main.tsx
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[App.tsx]] - `imports_from` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/App_Root
+#graphify/code #graphify/EXTRACTED #community/App_Shell

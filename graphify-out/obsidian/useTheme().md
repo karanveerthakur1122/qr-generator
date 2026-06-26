@@ -1,12 +1,12 @@
 ---
 source_file: "src\hooks\use-theme.tsx"
 type: "code"
-community: "Theme Toggle"
+community: "Theme System"
 location: "L54"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Theme_Toggle
+  - community/Theme_System
 ---
 
 # useTheme()
@@ -16,4 +16,4 @@ tags:
 - [[Toaster()]] - `calls` [INFERRED]
 - [[use-theme.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/Theme_Toggle
+#graphify/code #graphify/INFERRED #community/Theme_System

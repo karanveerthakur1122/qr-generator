@@ -1,16 +1,13 @@
 ---
 source_file: "public/logo512.png"
 type: "image"
-community: "Deployment & Branding"
+community: "React Logo 512"
 tags:
   - graphify/image
-  - graphify/INFERRED
-  - community/Deployment_&_Branding
+  - graphify/EXTRACTED
+  - community/React_Logo_512
 ---
 
 # React Logo 512px
 
-## Connections
-- [[React Logo (PWA Icon)]] - `conceptually_related_to` [INFERRED]
-
-#graphify/image #graphify/INFERRED #community/Deployment_&_Branding
+#graphify/image #graphify/EXTRACTED #community/React_Logo_512

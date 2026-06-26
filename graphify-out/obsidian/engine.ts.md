@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\engine.ts"
 type: "code"
-community: "QR Engine & Export"
+community: "QR Render Engine"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Engine_&_Export
+  - community/QR_Render_Engine
 ---
 
 # engine.ts
@@ -19,4 +19,4 @@ tags:
 - [[recommendErrorCorrection()]] - `contains` [EXTRACTED]
 - [[roundRect()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Engine_&_Export
+#graphify/code #graphify/EXTRACTED #community/QR_Render_Engine

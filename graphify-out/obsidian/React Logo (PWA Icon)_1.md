@@ -1,16 +1,13 @@
 ---
-source_file: "public/index.html"
-type: "document"
-community: "README Features"
+source_file: "public/logo192.png"
+type: "image"
+community: "React Logo 192"
 tags:
-  - graphify/document
+  - graphify/image
   - graphify/EXTRACTED
-  - community/README_Features
+  - community/React_Logo_192
 ---
 
 # React Logo (PWA Icon)
 
-## Connections
-- [[PWA Manifest Link]] - `references` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/README_Features
+#graphify/image #graphify/EXTRACTED #community/React_Logo_192

@@ -1,17 +1,16 @@
 ---
 source_file: "public/favicon.svg"
 type: "image"
-community: "Favicon Branding"
+community: "Brand Assets"
 tags:
   - graphify/image
   - graphify/INFERRED
-  - community/Favicon_Branding
+  - community/Brand_Assets
 ---
 
 # PWA App Icon
 
 ## Connections
 - [[Favicon SVG]] - `conceptually_related_to` [INFERRED]
-- [[QR Studio Brand Identity]] - `conceptually_related_to` [INFERRED]
 
-#graphify/image #graphify/INFERRED #community/Favicon_Branding
+#graphify/image #graphify/INFERRED #community/Brand_Assets

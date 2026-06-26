@@ -1,12 +1,12 @@
 ---
 source_file: "src\App.tsx"
 type: "code"
-community: "App Root"
-location: "L18"
+community: "App Shell"
+location: "L17"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/App_Root
+  - community/App_Shell
 ---
 
 # SingleMode()
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[App.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/App_Root
+#graphify/code #graphify/EXTRACTED #community/App_Shell

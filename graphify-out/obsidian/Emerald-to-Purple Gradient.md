@@ -1,11 +1,11 @@
 ---
 source_file: "public/favicon.svg"
 type: "image"
-community: "Favicon Branding"
+community: "Brand Assets"
 tags:
   - graphify/image
   - graphify/EXTRACTED
-  - community/Favicon_Branding
+  - community/Brand_Assets
 ---
 
 # Emerald-to-Purple Gradient
@@ -15,4 +15,4 @@ tags:
 - [[QR Data Modules]] - `references` [EXTRACTED]
 - [[QR Finder Patterns]] - `references` [EXTRACTED]
 
-#graphify/image #graphify/EXTRACTED #community/Favicon_Branding
+#graphify/image #graphify/EXTRACTED #community/Brand_Assets

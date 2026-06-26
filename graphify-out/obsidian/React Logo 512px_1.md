@@ -1,16 +1,13 @@
 ---
 source_file: "public/logo512.png"
 type: "image"
-community: "React 19"
+community: "Legacy PWA Icon"
 tags:
   - graphify/image
-  - graphify/INFERRED
-  - community/React_19
+  - graphify/EXTRACTED
+  - community/Legacy_PWA_Icon
 ---
 
 # React Logo 512px
 
-## Connections
-- [[React Logo (PWA Icon)_2]] - `conceptually_related_to` [INFERRED]
-
-#graphify/image #graphify/INFERRED #community/React_19
+#graphify/image #graphify/EXTRACTED #community/Legacy_PWA_Icon

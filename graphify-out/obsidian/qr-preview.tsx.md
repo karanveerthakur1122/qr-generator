@@ -1,12 +1,12 @@
 ---
 source_file: "src\components\qr\qr-preview.tsx"
 type: "code"
-community: "QR Preview & Payloads"
+community: "Payload Builders"
 location: "L1"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/QR_Preview_&_Payloads
+  - community/Payload_Builders
 ---
 
 # qr-preview.tsx
@@ -15,4 +15,4 @@ tags:
 - [[scanQuality()]] - `contains` [EXTRACTED]
 - [[useLivePayload()]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/QR_Preview_&_Payloads
+#graphify/code #graphify/EXTRACTED #community/Payload_Builders

@@ -1,12 +1,12 @@
 ---
 source_file: "src\lib\qr\engine.ts"
 type: "code"
-community: "QR Engine & Export"
+community: "Export Pipeline"
 location: "L12"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/QR_Engine_&_Export
+  - community/Export_Pipeline
 ---
 
 # createMatrix()
@@ -16,4 +16,4 @@ tags:
 - [[exportSVG()]] - `calls` [INFERRED]
 - [[renderFullCanvas()]] - `calls` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/QR_Engine_&_Export
+#graphify/code #graphify/INFERRED #community/Export_Pipeline

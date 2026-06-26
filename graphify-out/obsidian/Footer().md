@@ -1,19 +1,17 @@
 ---
 source_file: "src\components\layout\footer.tsx"
 type: "code"
-community: "Footer Component"
-location: "L3"
+community: "Footer"
+location: "L11"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Footer_Component
+  - community/Footer
 ---
 
 # Footer()
 
 ## Connections
-- [[Footer Component]] - `references` [EXTRACTED]
-- [[Footer.js_1]] - `conceptually_related_to` [EXTRACTED]
 - [[footer.tsx]] - `contains` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Footer_Component
+#graphify/code #graphify/EXTRACTED #community/Footer
