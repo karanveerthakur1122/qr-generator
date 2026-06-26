@@ -25,6 +25,18 @@ import {
 import { useWizardStore } from "@/store/wizardStore";
 import { useHistoryStore } from "@/store/historyStore";
 
+// Downscale to a small JPEG so 40 history items stay well under the
+// ~5MB localStorage quota. Full-res PNGs overflowed it and broke persistence.
+function makeThumb(source: HTMLCanvasElement, size = 96): string {
+  const c = document.createElement("canvas");
+  c.width = size;
+  c.height = size;
+  const ctx = c.getContext("2d");
+  if (!ctx) return source.toDataURL("image/jpeg", 0.6);
+  ctx.drawImage(source, 0, 0, size, size);
+  return c.toDataURL("image/jpeg", 0.7);
+}
+
 export function StepExport() {
   const type = useWizardStore((s) => s.type);
   const formData = useWizardStore((s) => s.formData);
@@ -46,7 +58,7 @@ export function StepExport() {
     (async () => {
       try {
         const canvas = await renderFullCanvas(payload.content, customization, 1);
-        const thumb = canvas.toDataURL("image/png");
+        const thumb = makeThumb(canvas);
         if (cancelled) return;
         addToHistory({
           type,
