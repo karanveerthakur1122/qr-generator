@@ -1,12 +1,41 @@
-import { Heart } from "lucide-react";
+import { Globe, Heart } from "lucide-react";
+
+function GithubIcon({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden className={className}>
+      <path d="M12 .5C5.73.5.5 5.73.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2c-3.2.7-3.88-1.54-3.88-1.54-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.71.08-.71 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.72-1.55-2.55-.29-5.23-1.28-5.23-5.69 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.8 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.84 1.19 3.1 0 4.42-2.69 5.39-5.25 5.68.41.36.78 1.06.78 2.14v3.17c0 .31.21.68.8.56A10.52 10.52 0 0 0 23.5 12C23.5 5.73 18.27.5 12 .5Z" />
+    </svg>
+  );
+}
 
 export function Footer() {
   return (
     <footer className="mx-auto w-full max-w-6xl px-4 py-10 text-center">
-      <p className="inline-flex items-center gap-1.5 text-sm text-muted-foreground">
-        Crafted with
-        <Heart className="size-3.5 fill-rose-500 text-rose-500" />
-        by Karan Veer Thakur
+      
+
+      <div className="mt-3 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm">
+        <a
+          href="https://github.com/karanveerthakur1122/qr-generator"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
+        >
+          <GithubIcon className="size-4" />
+          GitHub
+        </a>
+        <a
+          href="https://karanveerthakur.com.np/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 text-muted-foreground hover:text-foreground"
+        >
+          <Globe className="size-4" />
+          Portfolio
+        </a>
+      </div>
+
+      <p className="mt-3 text-xs text-muted-foreground/70">
+        Open source &mdash; contributions are appreciated.
       </p>
       <p className="mt-1 text-xs text-muted-foreground/70">
         QR Studio - all generation happens locally in your browser.
