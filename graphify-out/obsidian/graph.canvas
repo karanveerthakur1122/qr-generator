@@ -1,0 +1,4323 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Custom QR Engine",
+      "x": 0,
+      "y": 0,
+      "width": 1100,
+      "height": 920,
+      "color": "1"
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "type": "file",
+      "file": "graphify/obsidian/App Features Documentation.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "type": "file",
+      "file": "graphify/obsidian/Custom QR Engine_3.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react-qr-code Library_Custom QR Engine",
+      "type": "file",
+      "file": "graphify/obsidian/Custom QR Engine_2.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_Dark Mode Toggle",
+      "type": "file",
+      "file": "graphify/obsidian/Dark Mode Toggle_3.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Dark Mode Toggle_Dark Mode Toggle",
+      "type": "file",
+      "file": "graphify/obsidian/Dark Mode Toggle_4.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Dark Mode Toggle_DarkModeToggle()",
+      "type": "file",
+      "file": "graphify/obsidian/DarkModeToggle()_1.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Dark Mode Toggle_DarkModeToggle.js",
+      "type": "file",
+      "file": "graphify/obsidian/DarkModeToggle.js_1.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_DataTypeSelector Component",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector Component_3.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Engine_Dots QR Style",
+      "type": "file",
+      "file": "graphify/obsidian/Dots QR Style_2.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_Error Boundaries",
+      "type": "file",
+      "file": "graphify/obsidian/Error Boundaries_2.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_Karan Veer Thakur",
+      "type": "file",
+      "file": "graphify/obsidian/Karan Veer Thakur_3.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_Live Preview",
+      "type": "file",
+      "file": "graphify/obsidian/Live Preview_2.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrService_Multiple Data Types",
+      "type": "file",
+      "file": "graphify/obsidian/Multiple Data Types_3.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation__COMMUNITY_Netlify Deployment",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Deployment_2.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react-qr-code Library_QR Code Generator",
+      "type": "file",
+      "file": "graphify/obsidian/QR Code Generator_2.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation_QR Customization",
+      "type": "file",
+      "file": "graphify/obsidian/QR Customization_2.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Features Documentation__COMMUNITY_React Framework Branding",
+      "type": "file",
+      "file": "graphify/obsidian/React Framework Branding.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Rounded QR Style_Rounded QR Style",
+      "type": "file",
+      "file": "graphify/obsidian/Rounded QR Style_2.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_SEO Meta Tags_SEO Meta Tags",
+      "type": "file",
+      "file": "graphify/obsidian/SEO Meta Tags_2.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_SVG Rendering_SVG Rendering",
+      "type": "file",
+      "file": "graphify/obsidian/SVG Rendering_1.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrService_qrService",
+      "type": "file",
+      "file": "graphify/obsidian/qrService_2.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Engine_qrcode.js Library",
+      "type": "file",
+      "file": "graphify/obsidian/qrcode.js Library_2.md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react-qr-code Library_react-qr-code Library",
+      "type": "file",
+      "file": "graphify/obsidian/react-qr-code Library_2.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "QR Engine & Export",
+      "x": 1180,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "2"
+    },
+    {
+      "id": "n_step_export_async",
+      "type": "file",
+      "file": "graphify/obsidian/async().md",
+      "x": 1200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_copyimagetoclipboard",
+      "type": "file",
+      "file": "graphify/obsidian/copyImageToClipboard().md",
+      "x": 1400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_copytexttoclipboard",
+      "type": "file",
+      "file": "graphify/obsidian/copyTextToClipboard().md",
+      "x": 1600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_creatematrix",
+      "type": "file",
+      "file": "graphify/obsidian/createMatrix().md",
+      "x": 1200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_drawmatrixtocanvas",
+      "type": "file",
+      "file": "graphify/obsidian/drawMatrixToCanvas().md",
+      "x": 1400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_qr_engine_ts",
+      "type": "file",
+      "file": "graphify/obsidian/engine.ts.md",
+      "x": 1600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_qr_export_ts",
+      "type": "file",
+      "file": "graphify/obsidian/export.ts.md",
+      "x": 1200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_exportjpg",
+      "type": "file",
+      "file": "graphify/obsidian/exportJPG().md",
+      "x": 1400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_exportpdf",
+      "type": "file",
+      "file": "graphify/obsidian/exportPDF().md",
+      "x": 1600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_exportpng",
+      "type": "file",
+      "file": "graphify/obsidian/exportPNG().md",
+      "x": 1200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_exportsvg",
+      "type": "file",
+      "file": "graphify/obsidian/exportSVG().md",
+      "x": 1400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_loadimage",
+      "type": "file",
+      "file": "graphify/obsidian/loadImage().md",
+      "x": 1600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_matrixtosvgstring",
+      "type": "file",
+      "file": "graphify/obsidian/matrixToSVGString().md",
+      "x": 1200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_pickdrawoptions",
+      "type": "file",
+      "file": "graphify/obsidian/pickDrawOptions().md",
+      "x": 1400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_recommenderrorcorrection",
+      "type": "file",
+      "file": "graphify/obsidian/recommendErrorCorrection().md",
+      "x": 1600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_renderfullcanvas",
+      "type": "file",
+      "file": "graphify/obsidian/renderFullCanvas().md",
+      "x": 1200,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_engine_roundrect",
+      "type": "file",
+      "file": "graphify/obsidian/roundRect().md",
+      "x": 1400,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_step_export_run",
+      "type": "file",
+      "file": "graphify/obsidian/run().md",
+      "x": 1600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_wizard_step_export_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/step-export.tsx.md",
+      "x": 1200,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_export_triggerdownload",
+      "type": "file",
+      "file": "graphify/obsidian/triggerDownload().md",
+      "x": 1400,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "README Features",
+      "x": 2360,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "3"
+    },
+    {
+      "id": "n_README_Dark Mode Toggle",
+      "type": "file",
+      "file": "graphify/obsidian/Dark Mode Toggle_2.md",
+      "x": 2380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_DataTypeSelector Component",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector Component_2.md",
+      "x": 2580,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_Error Boundaries",
+      "type": "file",
+      "file": "graphify/obsidian/Error Boundaries_1.md",
+      "x": 2780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_Karan Veer Thakur",
+      "type": "file",
+      "file": "graphify/obsidian/Karan Veer Thakur_2.md",
+      "x": 2380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_Live Preview",
+      "type": "file",
+      "file": "graphify/obsidian/Live Preview_1.md",
+      "x": 2580,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_Multiple Data Types",
+      "type": "file",
+      "file": "graphify/obsidian/Multiple Data Types_2.md",
+      "x": 2780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_DEPLOYMENT_Netlify Deployment",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Deployment_1.md",
+      "x": 2380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_Netlify Hosting",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Hosting_1.md",
+      "x": 2580,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_DEPLOYMENT_PWA Manifest",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest_1.md",
+      "x": 2780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_indexhtml_PWA Manifest Link",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest Link.md",
+      "x": 2380,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_QR Code Generator",
+      "type": "file",
+      "file": "graphify/obsidian/QR Code Generator_1.md",
+      "x": 2580,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_QR Customization",
+      "type": "file",
+      "file": "graphify/obsidian/QR Customization_1.md",
+      "x": 2780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_public_React Logo (PWA Icon)",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo (PWA Icon)_1.md",
+      "x": 2380,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_React.js",
+      "type": "file",
+      "file": "graphify/obsidian/React.js_1.md",
+      "x": 2580,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_SEO Meta Tags",
+      "type": "file",
+      "file": "graphify/obsidian/SEO Meta Tags_1.md",
+      "x": 2780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_DEPLOYMENT_buildnetlify Script",
+      "type": "file",
+      "file": "graphify/obsidian/buildnetlify Script_1.md",
+      "x": 2380,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_DEPLOYMENT_netlify.toml",
+      "type": "file",
+      "file": "graphify/obsidian/netlify.toml_1.md",
+      "x": 2580,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_qrService",
+      "type": "file",
+      "file": "graphify/obsidian/qrService_1.md",
+      "x": 2780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_README_react-qr-code Library",
+      "type": "file",
+      "file": "graphify/obsidian/react-qr-code Library_1.md",
+      "x": 2380,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Legacy Docs Hub",
+      "x": 3540,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "n_readme_dark_mode",
+      "type": "file",
+      "file": "graphify/obsidian/Dark Mode Toggle.md",
+      "x": 3560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_dark_mode_toggle",
+      "type": "file",
+      "file": "graphify/obsidian/Dark Mode Toggle_1.md",
+      "x": 3760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_darkmodetoggle_darkmodetoggle",
+      "type": "file",
+      "file": "graphify/obsidian/DarkModeToggle().md",
+      "x": 3960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_darkmodetoggle_js",
+      "type": "file",
+      "file": "graphify/obsidian/DarkModeToggle.js.md",
+      "x": 3560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_data_type_selector",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector Component.md",
+      "x": 3760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_error_boundaries",
+      "type": "file",
+      "file": "graphify/obsidian/Error Boundaries.md",
+      "x": 3960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_karan_veer_thakur",
+      "type": "file",
+      "file": "graphify/obsidian/Karan Veer Thakur.md",
+      "x": 3560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_live_preview",
+      "type": "file",
+      "file": "graphify/obsidian/Live Preview.md",
+      "x": 3760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_data_types",
+      "type": "file",
+      "file": "graphify/obsidian/Multiple Data Types.md",
+      "x": 3960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_netlify",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Deployment.md",
+      "x": 3560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_netlify",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Hosting.md",
+      "x": 3760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_pwa",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest.md",
+      "x": 3960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_qr_code_generator",
+      "type": "file",
+      "file": "graphify/obsidian/QR Code Generator.md",
+      "x": 3560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_qr_customization",
+      "type": "file",
+      "file": "graphify/obsidian/QR Customization.md",
+      "x": 3760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_indexhtml_seo_meta_tags",
+      "type": "file",
+      "file": "graphify/obsidian/SEO Meta Tags.md",
+      "x": 3960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_build_netlify",
+      "type": "file",
+      "file": "graphify/obsidian/buildnetlify Script.md",
+      "x": 3560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_qr_service",
+      "type": "file",
+      "file": "graphify/obsidian/qrService.md",
+      "x": 3760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Deployment & Branding",
+      "x": 4720,
+      "y": 0,
+      "width": 1100,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n__community_app_features_documentation",
+      "type": "file",
+      "file": "graphify/obsidian/App Features Documentation_1.md",
+      "x": 4740,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_netlify_deployment_netlify_deployment_community",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Deployment_3.md",
+      "x": 4940,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_netlify_deployment",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Deployment_4.md",
+      "x": 5140,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_netlify_hosting",
+      "type": "file",
+      "file": "graphify/obsidian/Netlify Hosting_2.md",
+      "x": 4740,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_pwa_manifest",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest_2.md",
+      "x": 4940,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_index_html_pwa_manifest_link",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest Link_2.md",
+      "x": 5140,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_summary_react_19",
+      "type": "file",
+      "file": "graphify/obsidian/React 19_2.md",
+      "x": 4740,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_react_19",
+      "type": "file",
+      "file": "graphify/obsidian/React 19.md",
+      "x": 4940,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logo_svg_react_atom_svg",
+      "type": "file",
+      "file": "graphify/obsidian/React Atom SVG_1.md",
+      "x": 5140,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_react_framework_branding_react_framework_branding",
+      "type": "file",
+      "file": "graphify/obsidian/React Framework Branding_1.md",
+      "x": 4740,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logo192_react_logo",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo (PWA Icon).md",
+      "x": 4940,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logo192_react_logo_pwa_icon",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo (PWA Icon)_3.md",
+      "x": 5140,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logo512_react_logo",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo 512px.md",
+      "x": 4740,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logo512_react_logo_512px",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo 512px_2.md",
+      "x": 4940,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_react_js",
+      "type": "file",
+      "file": "graphify/obsidian/React.js.md",
+      "x": 5140,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_buildnetlify_script",
+      "type": "file",
+      "file": "graphify/obsidian/buildnetlify Script_2.md",
+      "x": 4740,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deployment_netlify_toml",
+      "type": "file",
+      "file": "graphify/obsidian/netlify.toml.md",
+      "x": 4940,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "QR Data Service",
+      "x": 5900,
+      "y": 0,
+      "width": 880,
+      "height": 620,
+      "color": "6"
+    },
+    {
+      "id": "n__community_data_input_form_data_input_form",
+      "type": "file",
+      "file": "graphify/obsidian/Data Input Form.md",
+      "x": 5920,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_data_type_selector_data_type_selector",
+      "type": "file",
+      "file": "graphify/obsidian/Data Type Selector.md",
+      "x": 6120,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_datainputform_datainputform",
+      "type": "file",
+      "file": "graphify/obsidian/DataInputForm().md",
+      "x": 6320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_datainputform_js",
+      "type": "file",
+      "file": "graphify/obsidian/DataInputForm.js.md",
+      "x": 5920,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_datatype_selector_component",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector Component_1.md",
+      "x": 6120,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_datatypeselector_datatypeselector",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector().md",
+      "x": 6320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_datatypeselector_js",
+      "type": "file",
+      "file": "graphify/obsidian/DataTypeSelector.js.md",
+      "x": 5920,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian_dataview_plugin",
+      "type": "file",
+      "file": "graphify/obsidian/Dataview plugin.md",
+      "x": 6120,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_multiple_data_types",
+      "type": "file",
+      "file": "graphify/obsidian/Multiple Data Types_1.md",
+      "x": 6320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_qr_data_service_qr_data_service",
+      "type": "file",
+      "file": "graphify/obsidian/QR Data Service.md",
+      "x": 5920,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrservice_generateqrdata",
+      "type": "file",
+      "file": "graphify/obsidian/generateQRData()_2.md",
+      "x": 6120,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrservice_generatevcard",
+      "type": "file",
+      "file": "graphify/obsidian/generateVCard()_2.md",
+      "x": 6320,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrservice_js",
+      "type": "file",
+      "file": "graphify/obsidian/qrService.js_2.md",
+      "x": 5920,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrservice_validateqrdata",
+      "type": "file",
+      "file": "graphify/obsidian/validateQRData()_1.md",
+      "x": 6120,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Custom QR Styles",
+      "x": 6860,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_summary_custom_qr_engine",
+      "type": "file",
+      "file": "graphify/obsidian/Custom QR Engine.md",
+      "x": 6880,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_customqrcode_customqrcode",
+      "type": "file",
+      "file": "graphify/obsidian/CustomQRCode().md",
+      "x": 7080,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_customqrcode_js",
+      "type": "file",
+      "file": "graphify/obsidian/CustomQRCode.js.md",
+      "x": 7280,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_dots_qr_style",
+      "type": "file",
+      "file": "graphify/obsidian/Dots QR Style_1.md",
+      "x": 6880,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_dots_style",
+      "type": "file",
+      "file": "graphify/obsidian/Dots QR Style.md",
+      "x": 7080,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_rounded_qr_style",
+      "type": "file",
+      "file": "graphify/obsidian/Rounded QR Style_1.md",
+      "x": 7280,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_rounded_style",
+      "type": "file",
+      "file": "graphify/obsidian/Rounded QR Style.md",
+      "x": 6880,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_svg_rendering",
+      "type": "file",
+      "file": "graphify/obsidian/SVG Rendering.md",
+      "x": 7080,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_summary_qrcode_library",
+      "type": "file",
+      "file": "graphify/obsidian/qrcode.js Library.md",
+      "x": 7280,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_react_qr_code",
+      "type": "file",
+      "file": "graphify/obsidian/react-qr-code Library.md",
+      "x": 6880,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "QR Preview & Payloads",
+      "x": 7820,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_payloads_buildevent",
+      "type": "file",
+      "file": "graphify/obsidian/buildEvent().md",
+      "x": 7840,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_payloads_buildpayload",
+      "type": "file",
+      "file": "graphify/obsidian/buildPayload().md",
+      "x": 8040,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_payloads_buildpayment",
+      "type": "file",
+      "file": "graphify/obsidian/buildPayment().md",
+      "x": 8240,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_payloads_buildvcard",
+      "type": "file",
+      "file": "graphify/obsidian/buildVCard().md",
+      "x": 7840,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_payloads_escapewifi",
+      "type": "file",
+      "file": "graphify/obsidian/escapeWifi().md",
+      "x": 8040,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_qr_payloads_ts",
+      "type": "file",
+      "file": "graphify/obsidian/payloads.ts.md",
+      "x": 8240,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_qr_qr_preview_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/qr-preview.tsx.md",
+      "x": 7840,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qr_preview_scanquality",
+      "type": "file",
+      "file": "graphify/obsidian/scanQuality().md",
+      "x": 8040,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qr_preview_uselivepayload",
+      "type": "file",
+      "file": "graphify/obsidian/useLivePayload().md",
+      "x": 8240,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Preview & Display",
+      "x": 8560,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n__community_live_preview_component_live_preview_component",
+      "type": "file",
+      "file": "graphify/obsidian/Live Preview Component.md",
+      "x": 8580,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_livepreview_livepreview",
+      "type": "file",
+      "file": "graphify/obsidian/LivePreview()_1.md",
+      "x": 8780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_livepreview_js",
+      "type": "file",
+      "file": "graphify/obsidian/LivePreview.js_1.md",
+      "x": 8980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_qr_code_display_qr_code_display",
+      "type": "file",
+      "file": "graphify/obsidian/QR Code Display.md",
+      "x": 8580,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_qr_customization_panel_qr_customization_panel",
+      "type": "file",
+      "file": "graphify/obsidian/QR Customization Panel.md",
+      "x": 8780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrcodedisplay_qrcodedisplay",
+      "type": "file",
+      "file": "graphify/obsidian/QRCodeDisplay()_1.md",
+      "x": 8980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrcodedisplay_js",
+      "type": "file",
+      "file": "graphify/obsidian/QRCodeDisplay.js_1.md",
+      "x": 8580,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrcustomization_qrcustomization",
+      "type": "file",
+      "file": "graphify/obsidian/QRCustomization()_1.md",
+      "x": 8780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrcustomization_js",
+      "type": "file",
+      "file": "graphify/obsidian/QRCustomization.js_1.md",
+      "x": 8980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Favicon Branding",
+      "x": 0,
+      "y": 1000,
+      "width": 660,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_favicon_emerald_purple_gradient",
+      "type": "file",
+      "file": "graphify/obsidian/Emerald-to-Purple Gradient.md",
+      "x": 20,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_favicon_svg",
+      "type": "file",
+      "file": "graphify/obsidian/Favicon SVG.md",
+      "x": 220,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_pwa_app_icon",
+      "type": "file",
+      "file": "graphify/obsidian/PWA App Icon.md",
+      "x": 420,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_data_modules",
+      "type": "file",
+      "file": "graphify/obsidian/QR Data Modules.md",
+      "x": 20,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_finder_patterns",
+      "type": "file",
+      "file": "graphify/obsidian/QR Finder Patterns.md",
+      "x": 220,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_qr_studio_branding",
+      "type": "file",
+      "file": "graphify/obsidian/QR Studio Brand Identity.md",
+      "x": 420,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_rounded_square_frame",
+      "type": "file",
+      "file": "graphify/obsidian/Rounded Square Frame.md",
+      "x": 20,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_slate_background",
+      "type": "file",
+      "file": "graphify/obsidian/Slate Dark Background.md",
+      "x": 220,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_favicon_stylized_qr_icon",
+      "type": "file",
+      "file": "graphify/obsidian/Stylized QR Code Icon.md",
+      "x": 420,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Theme Toggle",
+      "x": 1180,
+      "y": 1000,
+      "width": 660,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_use_theme_themeprovider",
+      "type": "file",
+      "file": "graphify/obsidian/ThemeProvider().md",
+      "x": 1200,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_theme_toggle_themetoggle",
+      "type": "file",
+      "file": "graphify/obsidian/ThemeToggle().md",
+      "x": 1400,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sonner_toaster",
+      "type": "file",
+      "file": "graphify/obsidian/Toaster().md",
+      "x": 1600,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_use_theme_getinitialtheme",
+      "type": "file",
+      "file": "graphify/obsidian/getInitialTheme().md",
+      "x": 1200,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_sonner_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/sonner.tsx.md",
+      "x": 1400,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_layout_theme_toggle_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/theme-toggle.tsx.md",
+      "x": 1600,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_hooks_use_theme_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/use-theme.tsx.md",
+      "x": 1200,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_use_theme_usetheme",
+      "type": "file",
+      "file": "graphify/obsidian/useTheme().md",
+      "x": 1400,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Error Boundary",
+      "x": 2360,
+      "y": 1000,
+      "width": 660,
+      "height": 420,
+      "color": "6"
+    },
+    {
+      "id": "n_errorboundary_componentdidcatch",
+      "type": "file",
+      "file": "graphify/obsidian/.componentDidCatch().md",
+      "x": 2380,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_constructor",
+      "type": "file",
+      "file": "graphify/obsidian/.constructor().md",
+      "x": 2580,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_getderivedstatefromerror",
+      "type": "file",
+      "file": "graphify/obsidian/.getDerivedStateFromError().md",
+      "x": 2780,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_render",
+      "type": "file",
+      "file": "graphify/obsidian/.render().md",
+      "x": 2380,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__community_error_boundary_module_error_boundary_module",
+      "type": "file",
+      "file": "graphify/obsidian/Error Boundary Module.md",
+      "x": 2580,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_class",
+      "type": "file",
+      "file": "graphify/obsidian/ErrorBoundary_1.md",
+      "x": 2780,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_errorboundary",
+      "type": "file",
+      "file": "graphify/obsidian/ErrorBoundary.md",
+      "x": 2380,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_errorboundary_js",
+      "type": "file",
+      "file": "graphify/obsidian/ErrorBoundary.js.md",
+      "x": 2580,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "QR Form",
+      "x": 3540,
+      "y": 1000,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_qr_form_qrform",
+      "type": "file",
+      "file": "graphify/obsidian/QRForm().md",
+      "x": 3560,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_field_config_defaultsfor",
+      "type": "file",
+      "file": "graphify/obsidian/defaultsFor().md",
+      "x": 3760,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_forms_field_config_ts",
+      "type": "file",
+      "file": "graphify/obsidian/field-config.ts.md",
+      "x": 3960,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_validation_getschema",
+      "type": "file",
+      "file": "graphify/obsidian/getSchema().md",
+      "x": 3560,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_forms_qr_form_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/qr-form.tsx.md",
+      "x": 3760,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_qr_validation_ts",
+      "type": "file",
+      "file": "graphify/obsidian/validation.ts.md",
+      "x": 3960,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "React 19",
+      "x": 4720,
+      "y": 1000,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_React Logo (PWA Icon)_PWA Manifest Link",
+      "type": "file",
+      "file": "graphify/obsidian/PWA Manifest Link_1.md",
+      "x": 4740,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_React 19_React 19",
+      "type": "file",
+      "file": "graphify/obsidian/React 19_1.md",
+      "x": 4940,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_React Atom SVG_React Atom SVG",
+      "type": "file",
+      "file": "graphify/obsidian/React Atom SVG.md",
+      "x": 5140,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_React Logo (PWA Icon)_React Logo (PWA Icon)",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo (PWA Icon)_2.md",
+      "x": 4740,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_React Logo 512px_React Logo 512px",
+      "type": "file",
+      "file": "graphify/obsidian/React Logo 512px_1.md",
+      "x": 4940,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_React.js_React.js",
+      "type": "file",
+      "file": "graphify/obsidian/React.js_2.md",
+      "x": 5140,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Batch Generator",
+      "x": 5900,
+      "y": 1000,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_batch_generator_batchgenerator",
+      "type": "file",
+      "file": "graphify/obsidian/BatchGenerator().md",
+      "x": 5920,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_batch_batch_generator_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/batch-generator.tsx.md",
+      "x": 6120,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_batch_generator_parseentries",
+      "type": "file",
+      "file": "graphify/obsidian/parseEntries().md",
+      "x": 6320,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_batch_generator_triggerblob",
+      "type": "file",
+      "file": "graphify/obsidian/triggerBlob().md",
+      "x": 5920,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Wizard Content",
+      "x": 6860,
+      "y": 1000,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_step_content_stepcontent",
+      "type": "file",
+      "file": "graphify/obsidian/StepContent().md",
+      "x": 6880,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_gettypemeta",
+      "type": "file",
+      "file": "graphify/obsidian/getTypeMeta().md",
+      "x": 7080,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_wizard_step_content_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/step-content.tsx.md",
+      "x": 7280,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_qr_types_ts",
+      "type": "file",
+      "file": "graphify/obsidian/types.ts.md",
+      "x": 6880,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "QR Data Generation",
+      "x": 7820,
+      "y": 1000,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_qrService.js_generateQRData()",
+      "type": "file",
+      "file": "graphify/obsidian/generateQRData()_1.md",
+      "x": 7840,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrService.js_generateVCard()",
+      "type": "file",
+      "file": "graphify/obsidian/generateVCard()_1.md",
+      "x": 8040,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrService.js_qrService.js",
+      "type": "file",
+      "file": "graphify/obsidian/qrService.js_1.md",
+      "x": 8240,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrService.js_validateQRData()",
+      "type": "file",
+      "file": "graphify/obsidian/validateQRData().md",
+      "x": 7840,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "Footer Component",
+      "x": 8560,
+      "y": 1000,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n__community_footer_component_footer_component",
+      "type": "file",
+      "file": "graphify/obsidian/Footer Component.md",
+      "x": 8580,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_footer_footer",
+      "type": "file",
+      "file": "graphify/obsidian/Footer().md",
+      "x": 8780,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_footer_js",
+      "type": "file",
+      "file": "graphify/obsidian/Footer.js_1.md",
+      "x": 8980,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_layout_footer_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/footer.tsx.md",
+      "x": 8580,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "App Root",
+      "x": 0,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_src_app_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/App.tsx.md",
+      "x": 20,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_singlemode",
+      "type": "file",
+      "file": "graphify/obsidian/SingleMode().md",
+      "x": 220,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_main_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/main.tsx.md",
+      "x": 420,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "History Drawer",
+      "x": 1180,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_history_history_drawer_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/history-drawer.tsx.md",
+      "x": 1200,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_history_drawer_restore",
+      "type": "file",
+      "file": "graphify/obsidian/restore().md",
+      "x": 1400,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_history_drawer_timeago",
+      "type": "file",
+      "file": "graphify/obsidian/timeAgo().md",
+      "x": 1600,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "Customization Panel",
+      "x": 2360,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_customization_panel_colorfield",
+      "type": "file",
+      "file": "graphify/obsidian/ColorField().md",
+      "x": 2380,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_qr_customization_panel_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/customization-panel.tsx.md",
+      "x": 2580,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_customization_panel_handlelogo",
+      "type": "file",
+      "file": "graphify/obsidian/handleLogo().md",
+      "x": 2780,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g21",
+      "type": "group",
+      "label": "QR Studio Entry",
+      "x": 3540,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_indexhtml_karan_veer_thakur",
+      "type": "file",
+      "file": "graphify/obsidian/Karan Veer Thakur_1.md",
+      "x": 3560,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_indexhtml_qr_studio",
+      "type": "file",
+      "file": "graphify/obsidian/QR Studio.md",
+      "x": 3760,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_main_main_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/main.tsx_1.md",
+      "x": 3960,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g22",
+      "type": "group",
+      "label": "Legacy App",
+      "x": 4720,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_app_app",
+      "type": "file",
+      "file": "graphify/obsidian/App().md",
+      "x": 4740,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_js",
+      "type": "file",
+      "file": "graphify/obsidian/App.js.md",
+      "x": 4940,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_test_app_test_js",
+      "type": "file",
+      "file": "graphify/obsidian/App.test.js.md",
+      "x": 5140,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g23",
+      "type": "group",
+      "label": "QR Service Functions",
+      "x": 5900,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_qrServicejs_generateQRData()",
+      "type": "file",
+      "file": "graphify/obsidian/generateQRData().md",
+      "x": 5920,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrServicejs_generateVCard()",
+      "type": "file",
+      "file": "graphify/obsidian/generateVCard().md",
+      "x": 6120,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_qrServicejs_qrService.js",
+      "type": "file",
+      "file": "graphify/obsidian/qrService.js.md",
+      "x": 6320,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g24",
+      "type": "group",
+      "label": "App Root Component",
+      "x": 6860,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n__COMMUNITY_App Root Component_App Root Component",
+      "type": "file",
+      "file": "graphify/obsidian/App Root Component.md",
+      "x": 6880,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Root Component_App()",
+      "type": "file",
+      "file": "graphify/obsidian/App()_1.md",
+      "x": 7080,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Root Component_App.js",
+      "type": "file",
+      "file": "graphify/obsidian/App.js_1.md",
+      "x": 7280,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g25",
+      "type": "group",
+      "label": "Custom QR Component",
+      "x": 7820,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Code Component_Custom QR Code Component",
+      "type": "file",
+      "file": "graphify/obsidian/Custom QR Code Component.md",
+      "x": 7840,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Code Component_CustomQRCode()",
+      "type": "file",
+      "file": "graphify/obsidian/CustomQRCode()_1.md",
+      "x": 8040,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_Custom QR Code Component_CustomQRCode.js",
+      "type": "file",
+      "file": "graphify/obsidian/CustomQRCode.js_1.md",
+      "x": 8240,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g26",
+      "type": "group",
+      "label": "Web Vitals",
+      "x": 8560,
+      "y": 1500,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n__community_web_vitals_reporting_web_vitals_reporting",
+      "type": "file",
+      "file": "graphify/obsidian/Web Vitals Reporting.md",
+      "x": 8580,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reportwebvitals_fn",
+      "type": "file",
+      "file": "graphify/obsidian/reportWebVitals()_1.md",
+      "x": 8780,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reportwebvitals_js",
+      "type": "file",
+      "file": "graphify/obsidian/reportWebVitals.js_1.md",
+      "x": 8980,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g27",
+      "type": "group",
+      "label": "Glass Background",
+      "x": 0,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_glass_background_glassbackground",
+      "type": "file",
+      "file": "graphify/obsidian/GlassBackground().md",
+      "x": 20,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_glass_glass_background_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/glass-background.tsx.md",
+      "x": 220,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g28",
+      "type": "group",
+      "label": "Type Icons",
+      "x": 1180,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_type_icon_typeicon",
+      "type": "file",
+      "file": "graphify/obsidian/TypeIcon().md",
+      "x": 1200,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_qr_type_icon_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/type-icon.tsx.md",
+      "x": 1400,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g29",
+      "type": "group",
+      "label": "Wizard Design Step",
+      "x": 2360,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_step_design_stepdesign",
+      "type": "file",
+      "file": "graphify/obsidian/StepDesign().md",
+      "x": 2380,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_wizard_step_design_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/step-design.tsx.md",
+      "x": 2580,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g30",
+      "type": "group",
+      "label": "Wizard Type Step",
+      "x": 3540,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_step_type_handleselect",
+      "type": "file",
+      "file": "graphify/obsidian/handleSelect().md",
+      "x": 3560,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_wizard_step_type_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/step-type.tsx.md",
+      "x": 3760,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g31",
+      "type": "group",
+      "label": "Utils",
+      "x": 4720,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_utils_cn",
+      "type": "file",
+      "file": "graphify/obsidian/cn().md",
+      "x": 4740,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_utils_ts",
+      "type": "file",
+      "file": "graphify/obsidian/utils.ts.md",
+      "x": 4940,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g32",
+      "type": "group",
+      "label": "Graph Report",
+      "x": 5900,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_graph_report_graph_report",
+      "type": "file",
+      "file": "graphify/obsidian/Graph Report.md",
+      "x": 5920,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_graphhtml_knowledge_graph",
+      "type": "file",
+      "file": "graphify/obsidian/Knowledge Graph Visualization.md",
+      "x": 6120,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g33",
+      "type": "group",
+      "label": "Legacy Footer",
+      "x": 6860,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_Footerjs_Footer()",
+      "type": "file",
+      "file": "graphify/obsidian/Footer()_1.md",
+      "x": 6880,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_Footerjs_Footer.js",
+      "type": "file",
+      "file": "graphify/obsidian/Footer.js.md",
+      "x": 7080,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g34",
+      "type": "group",
+      "label": "Live Preview",
+      "x": 7820,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_LivePreviewjs_LivePreview()",
+      "type": "file",
+      "file": "graphify/obsidian/LivePreview().md",
+      "x": 7840,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_LivePreviewjs_LivePreview.js",
+      "type": "file",
+      "file": "graphify/obsidian/LivePreview.js.md",
+      "x": 8040,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g35",
+      "type": "group",
+      "label": "QR Engine Docs",
+      "x": 8560,
+      "y": 1980,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_DEPLOYMENT_SUMMARY_Custom QR Engine",
+      "type": "file",
+      "file": "graphify/obsidian/Custom QR Engine_1.md",
+      "x": 8580,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_DEPLOYMENT_SUMMARY_qrcode.js Library",
+      "type": "file",
+      "file": "graphify/obsidian/qrcode.js Library_1.md",
+      "x": 8780,
+      "y": 2060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g36",
+      "type": "group",
+      "label": "QR Display",
+      "x": 0,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_QRCodeDisplayjs_QRCodeDisplay()",
+      "type": "file",
+      "file": "graphify/obsidian/QRCodeDisplay().md",
+      "x": 20,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_QRCodeDisplayjs_QRCodeDisplay.js",
+      "type": "file",
+      "file": "graphify/obsidian/QRCodeDisplay.js.md",
+      "x": 220,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g37",
+      "type": "group",
+      "label": "QR Customization",
+      "x": 1180,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_QRCustomizationjs_QRCustomization()",
+      "type": "file",
+      "file": "graphify/obsidian/QRCustomization().md",
+      "x": 1200,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_QRCustomizationjs_QRCustomization.js",
+      "type": "file",
+      "file": "graphify/obsidian/QRCustomization.js.md",
+      "x": 1400,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g38",
+      "type": "group",
+      "label": "Report Web Vitals",
+      "x": 2360,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_reportWebVitals()_reportWebVitals()",
+      "type": "file",
+      "file": "graphify/obsidian/reportWebVitals().md",
+      "x": 2380,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reportWebVitals.js_reportWebVitals.js",
+      "type": "file",
+      "file": "graphify/obsidian/reportWebVitals.js.md",
+      "x": 2580,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g39",
+      "type": "group",
+      "label": "App Entry Point",
+      "x": 3540,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n__COMMUNITY_App Entry Point_App Entry Point",
+      "type": "file",
+      "file": "graphify/obsidian/App Entry Point.md",
+      "x": 3560,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Entry Point_index.js",
+      "type": "file",
+      "file": "graphify/obsidian/index.js_1.md",
+      "x": 3760,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g40",
+      "type": "group",
+      "label": "App Test Suite",
+      "x": 4720,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n__COMMUNITY_App Test Suite_App Test Suite",
+      "type": "file",
+      "file": "graphify/obsidian/App Test Suite.md",
+      "x": 4740,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n__COMMUNITY_App Test Suite_App.test.js",
+      "type": "file",
+      "file": "graphify/obsidian/App.test.js_1.md",
+      "x": 4940,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g41",
+      "type": "group",
+      "label": "Test Setup",
+      "x": 5900,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n__community_test_setup_config_test_setup_config",
+      "type": "file",
+      "file": "graphify/obsidian/Test Setup Config.md",
+      "x": 5920,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_setuptests_js",
+      "type": "file",
+      "file": "graphify/obsidian/setupTests.js_1.md",
+      "x": 6120,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g42",
+      "type": "group",
+      "label": "Robots.txt",
+      "x": 6860,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_public_robots_txt_robots_txt",
+      "type": "file",
+      "file": "graphify/obsidian/robots.txt.md",
+      "x": 6880,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_public_robots_txt_robotstxt_org",
+      "type": "file",
+      "file": "graphify/obsidian/robotstxt.org.md",
+      "x": 7080,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g43",
+      "type": "group",
+      "label": "Vite Config",
+      "x": 7820,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_vite_config_ts",
+      "type": "file",
+      "file": "graphify/obsidian/vite.config.ts.md",
+      "x": 7840,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g44",
+      "type": "group",
+      "label": "Vite Env Types",
+      "x": 8560,
+      "y": 2460,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_src_vite_env_d_ts",
+      "type": "file",
+      "file": "graphify/obsidian/vite-env.d.ts.md",
+      "x": 8580,
+      "y": 2540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g45",
+      "type": "group",
+      "label": "Glass Card",
+      "x": 0,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_src_components_glass_glass_card_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/glass-card.tsx.md",
+      "x": 20,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g46",
+      "type": "group",
+      "label": "Header Layout",
+      "x": 1180,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_src_components_layout_header_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/header.tsx.md",
+      "x": 1200,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g47",
+      "type": "group",
+      "label": "QR Canvas",
+      "x": 2360,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_src_components_qr_qr_canvas_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/qr-canvas.tsx.md",
+      "x": 2380,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g48",
+      "type": "group",
+      "label": "Button UI",
+      "x": 3540,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_src_components_ui_button_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/button.tsx.md",
+      "x": 3560,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g49",
+      "type": "group",
+      "label": "Dialog UI",
+      "x": 4720,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_ui_dialog_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/dialog.tsx.md",
+      "x": 4740,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g50",
+      "type": "group",
+      "label": "Input UI",
+      "x": 5900,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_src_components_ui_input_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/input.tsx.md",
+      "x": 5920,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g51",
+      "type": "group",
+      "label": "Label UI",
+      "x": 6860,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_src_components_ui_label_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/label.tsx.md",
+      "x": 6880,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g52",
+      "type": "group",
+      "label": "Progress UI",
+      "x": 7820,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_src_components_ui_progress_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/progress.tsx.md",
+      "x": 7840,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g53",
+      "type": "group",
+      "label": "Radio Group UI",
+      "x": 8560,
+      "y": 2940,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_src_components_ui_radio_group_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/radio-group.tsx.md",
+      "x": 8580,
+      "y": 3020,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g54",
+      "type": "group",
+      "label": "Select UI",
+      "x": 0,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_src_components_ui_select_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/select.tsx.md",
+      "x": 20,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g55",
+      "type": "group",
+      "label": "Slider UI",
+      "x": 1180,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_ui_slider_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/slider.tsx.md",
+      "x": 1200,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g56",
+      "type": "group",
+      "label": "Switch UI",
+      "x": 2360,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_src_components_ui_switch_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/switch.tsx.md",
+      "x": 2380,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g57",
+      "type": "group",
+      "label": "Tabs UI",
+      "x": 3540,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_src_components_ui_tabs_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/tabs.tsx.md",
+      "x": 3560,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g58",
+      "type": "group",
+      "label": "Textarea UI",
+      "x": 4720,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_src_components_ui_textarea_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/textarea.tsx.md",
+      "x": 4740,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g59",
+      "type": "group",
+      "label": "Tooltip UI",
+      "x": 5900,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_src_components_ui_tooltip_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/tooltip.tsx.md",
+      "x": 5920,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g60",
+      "type": "group",
+      "label": "Stepper",
+      "x": 6860,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_src_components_wizard_stepper_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/stepper.tsx.md",
+      "x": 6880,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g61",
+      "type": "group",
+      "label": "Wizard Shell",
+      "x": 7820,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_wizard_wizard_shell_tsx",
+      "type": "file",
+      "file": "graphify/obsidian/wizard-shell.tsx.md",
+      "x": 7840,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g62",
+      "type": "group",
+      "label": "History Store",
+      "x": 8560,
+      "y": 3420,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_src_store_historystore_ts",
+      "type": "file",
+      "file": "graphify/obsidian/historyStore.ts.md",
+      "x": 8580,
+      "y": 3500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g63",
+      "type": "group",
+      "label": "Wizard Store",
+      "x": 0,
+      "y": 3900,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_src_store_wizardstore_ts",
+      "type": "file",
+      "file": "graphify/obsidian/wizardStore.ts.md",
+      "x": 20,
+      "y": 3980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g64",
+      "type": "group",
+      "label": "Legacy Index",
+      "x": 1180,
+      "y": 3900,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_indexjs_index.js",
+      "type": "file",
+      "file": "graphify/obsidian/index.js.md",
+      "x": 1200,
+      "y": 3980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g65",
+      "type": "group",
+      "label": "Setup Tests",
+      "x": 2360,
+      "y": 3900,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_setupTests.js_setupTests.js",
+      "type": "file",
+      "file": "graphify/obsidian/setupTests.js.md",
+      "x": 2380,
+      "y": 3980,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_src_app_tsx_app_singlemode",
+      "fromNode": "n_src_app_tsx",
+      "toNode": "n_app_singlemode",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_tsx_src_main_tsx",
+      "fromNode": "n_src_app_tsx",
+      "toNode": "n_src_main_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_batch_batch_generator_tsx_batch_generator_parseentries",
+      "fromNode": "n_src_components_batch_batch_generator_tsx",
+      "toNode": "n_batch_generator_parseentries",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_batch_batch_generator_tsx_batch_generator_triggerblob",
+      "fromNode": "n_src_components_batch_batch_generator_tsx",
+      "toNode": "n_batch_generator_triggerblob",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_batch_batch_generator_tsx_batch_generator_batchgenerator",
+      "fromNode": "n_src_components_batch_batch_generator_tsx",
+      "toNode": "n_batch_generator_batchgenerator",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_forms_field_config_ts_field_config_defaultsfor",
+      "fromNode": "n_src_components_forms_field_config_ts",
+      "toNode": "n_field_config_defaultsfor",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_field_config_defaultsfor_qr_form_qrform",
+      "fromNode": "n_field_config_defaultsfor",
+      "toNode": "n_qr_form_qrform",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_forms_qr_form_tsx_qr_form_qrform",
+      "fromNode": "n_src_components_forms_qr_form_tsx",
+      "toNode": "n_qr_form_qrform",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_qr_form_qrform_validation_getschema",
+      "fromNode": "n_qr_form_qrform",
+      "toNode": "n_validation_getschema",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_glass_glass_background_tsx_glass_background_glassbackground",
+      "fromNode": "n_src_components_glass_glass_background_tsx",
+      "toNode": "n_glass_background_glassbackground",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_history_history_drawer_tsx_history_drawer_timeago",
+      "fromNode": "n_src_components_history_history_drawer_tsx",
+      "toNode": "n_history_drawer_timeago",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_history_history_drawer_tsx_history_drawer_restore",
+      "fromNode": "n_src_components_history_history_drawer_tsx",
+      "toNode": "n_history_drawer_restore",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_layout_footer_tsx_footer_footer",
+      "fromNode": "n_src_components_layout_footer_tsx",
+      "toNode": "n_footer_footer",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_footer_footer__community_footer_component_footer_component",
+      "fromNode": "n_footer_footer",
+      "toNode": "n__community_footer_component_footer_component",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_footer_footer_footer_js",
+      "fromNode": "n_footer_footer",
+      "toNode": "n_footer_js",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_layout_theme_toggle_tsx_theme_toggle_themetoggle",
+      "fromNode": "n_src_components_layout_theme_toggle_tsx",
+      "toNode": "n_theme_toggle_themetoggle",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_theme_toggle_themetoggle_use_theme_usetheme",
+      "fromNode": "n_theme_toggle_themetoggle",
+      "toNode": "n_use_theme_usetheme",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_qr_customization_panel_tsx_customization_panel_colorfield",
+      "fromNode": "n_src_components_qr_customization_panel_tsx",
+      "toNode": "n_customization_panel_colorfield",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_qr_customization_panel_tsx_customization_panel_handlelogo",
+      "fromNode": "n_src_components_qr_customization_panel_tsx",
+      "toNode": "n_customization_panel_handlelogo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_qr_qr_preview_tsx_qr_preview_uselivepayload",
+      "fromNode": "n_src_components_qr_qr_preview_tsx",
+      "toNode": "n_qr_preview_uselivepayload",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_qr_qr_preview_tsx_qr_preview_scanquality",
+      "fromNode": "n_src_components_qr_qr_preview_tsx",
+      "toNode": "n_qr_preview_scanquality",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_qr_preview_uselivepayload_payloads_buildpayload",
+      "fromNode": "n_qr_preview_uselivepayload",
+      "toNode": "n_payloads_buildpayload",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_qr_type_icon_tsx_type_icon_typeicon",
+      "fromNode": "n_src_components_qr_type_icon_tsx",
+      "toNode": "n_type_icon_typeicon",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_sonner_tsx_sonner_toaster",
+      "fromNode": "n_src_components_ui_sonner_tsx",
+      "toNode": "n_sonner_toaster",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_sonner_toaster_use_theme_usetheme",
+      "fromNode": "n_sonner_toaster",
+      "toNode": "n_use_theme_usetheme",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_wizard_step_content_tsx_step_content_stepcontent",
+      "fromNode": "n_src_components_wizard_step_content_tsx",
+      "toNode": "n_step_content_stepcontent",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_step_content_stepcontent_types_gettypemeta",
+      "fromNode": "n_step_content_stepcontent",
+      "toNode": "n_types_gettypemeta",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_wizard_step_design_tsx_step_design_stepdesign",
+      "fromNode": "n_src_components_wizard_step_design_tsx",
+      "toNode": "n_step_design_stepdesign",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_wizard_step_export_tsx_step_export_run",
+      "fromNode": "n_src_components_wizard_step_export_tsx",
+      "toNode": "n_step_export_run",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_wizard_step_export_tsx_step_export_async",
+      "fromNode": "n_src_components_wizard_step_export_tsx",
+      "toNode": "n_step_export_async",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_step_export_async_export_copytexttoclipboard",
+      "fromNode": "n_step_export_async",
+      "toNode": "n_export_copytexttoclipboard",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_components_wizard_step_type_tsx_step_type_handleselect",
+      "fromNode": "n_src_components_wizard_step_type_tsx",
+      "toNode": "n_step_type_handleselect",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_hooks_use_theme_tsx_use_theme_getinitialtheme",
+      "fromNode": "n_src_hooks_use_theme_tsx",
+      "toNode": "n_use_theme_getinitialtheme",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_hooks_use_theme_tsx_use_theme_themeprovider",
+      "fromNode": "n_src_hooks_use_theme_tsx",
+      "toNode": "n_use_theme_themeprovider",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_hooks_use_theme_tsx_use_theme_usetheme",
+      "fromNode": "n_src_hooks_use_theme_tsx",
+      "toNode": "n_use_theme_usetheme",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_utils_ts_utils_cn",
+      "fromNode": "n_src_lib_utils_ts",
+      "toNode": "n_utils_cn",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_creatematrix",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_creatematrix",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_pickdrawoptions",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_pickdrawoptions",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_drawmatrixtocanvas",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_drawmatrixtocanvas",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_roundrect",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_roundrect",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_matrixtosvgstring",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_matrixtosvgstring",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_engine_ts_engine_recommenderrorcorrection",
+      "fromNode": "n_src_lib_qr_engine_ts",
+      "toNode": "n_engine_recommenderrorcorrection",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_engine_creatematrix_export_renderfullcanvas",
+      "fromNode": "n_engine_creatematrix",
+      "toNode": "n_export_renderfullcanvas",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_engine_creatematrix_export_exportsvg",
+      "fromNode": "n_engine_creatematrix",
+      "toNode": "n_export_exportsvg",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_engine_pickdrawoptions_engine_drawmatrixtocanvas",
+      "fromNode": "n_engine_pickdrawoptions",
+      "toNode": "n_engine_drawmatrixtocanvas",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_engine_pickdrawoptions_engine_matrixtosvgstring",
+      "fromNode": "n_engine_pickdrawoptions",
+      "toNode": "n_engine_matrixtosvgstring",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_engine_drawmatrixtocanvas_engine_roundrect",
+      "fromNode": "n_engine_drawmatrixtocanvas",
+      "toNode": "n_engine_roundrect",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_engine_drawmatrixtocanvas_export_renderfullcanvas",
+      "fromNode": "n_engine_drawmatrixtocanvas",
+      "toNode": "n_export_renderfullcanvas",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_engine_matrixtosvgstring_export_exportsvg",
+      "fromNode": "n_engine_matrixtosvgstring",
+      "toNode": "n_export_exportsvg",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_loadimage",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_loadimage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_triggerdownload",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_triggerdownload",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_renderfullcanvas",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_renderfullcanvas",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_exportpng",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_exportpng",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_exportjpg",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_exportjpg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_exportsvg",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_exportsvg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_exportpdf",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_exportpdf",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_copyimagetoclipboard",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_copyimagetoclipboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_export_ts_export_copytexttoclipboard",
+      "fromNode": "n_src_lib_qr_export_ts",
+      "toNode": "n_export_copytexttoclipboard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_export_loadimage_export_renderfullcanvas",
+      "fromNode": "n_export_loadimage",
+      "toNode": "n_export_renderfullcanvas",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_triggerdownload_export_exportpng",
+      "fromNode": "n_export_triggerdownload",
+      "toNode": "n_export_exportpng",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_triggerdownload_export_exportjpg",
+      "fromNode": "n_export_triggerdownload",
+      "toNode": "n_export_exportjpg",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_triggerdownload_export_exportsvg",
+      "fromNode": "n_export_triggerdownload",
+      "toNode": "n_export_exportsvg",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_renderfullcanvas_export_exportpng",
+      "fromNode": "n_export_renderfullcanvas",
+      "toNode": "n_export_exportpng",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_renderfullcanvas_export_exportjpg",
+      "fromNode": "n_export_renderfullcanvas",
+      "toNode": "n_export_exportjpg",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_renderfullcanvas_export_exportpdf",
+      "fromNode": "n_export_renderfullcanvas",
+      "toNode": "n_export_exportpdf",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_export_renderfullcanvas_export_copyimagetoclipboard",
+      "fromNode": "n_export_renderfullcanvas",
+      "toNode": "n_export_copyimagetoclipboard",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_payloads_ts_payloads_escapewifi",
+      "fromNode": "n_src_lib_qr_payloads_ts",
+      "toNode": "n_payloads_escapewifi",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_payloads_ts_payloads_buildvcard",
+      "fromNode": "n_src_lib_qr_payloads_ts",
+      "toNode": "n_payloads_buildvcard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_payloads_ts_payloads_buildevent",
+      "fromNode": "n_src_lib_qr_payloads_ts",
+      "toNode": "n_payloads_buildevent",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_payloads_ts_payloads_buildpayment",
+      "fromNode": "n_src_lib_qr_payloads_ts",
+      "toNode": "n_payloads_buildpayment",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_payloads_ts_payloads_buildpayload",
+      "fromNode": "n_src_lib_qr_payloads_ts",
+      "toNode": "n_payloads_buildpayload",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_payloads_escapewifi_payloads_buildpayload",
+      "fromNode": "n_payloads_escapewifi",
+      "toNode": "n_payloads_buildpayload",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_payloads_buildvcard_payloads_buildpayload",
+      "fromNode": "n_payloads_buildvcard",
+      "toNode": "n_payloads_buildpayload",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_payloads_buildevent_payloads_buildpayload",
+      "fromNode": "n_payloads_buildevent",
+      "toNode": "n_payloads_buildpayload",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_payloads_buildpayment_payloads_buildpayload",
+      "fromNode": "n_payloads_buildpayment",
+      "toNode": "n_payloads_buildpayload",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_types_ts_types_gettypemeta",
+      "fromNode": "n_src_lib_qr_types_ts",
+      "toNode": "n_types_gettypemeta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_qr_validation_ts_validation_getschema",
+      "fromNode": "n_src_lib_qr_validation_ts",
+      "toNode": "n_validation_getschema",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_deployment_netlify_readme_netlify",
+      "fromNode": "n_deployment_netlify",
+      "toNode": "n_readme_netlify",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_deployment_netlify_deployment_netlify_toml",
+      "fromNode": "n_deployment_netlify",
+      "toNode": "n_deployment_netlify_toml",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_deployment_netlify_deployment_pwa",
+      "fromNode": "n_deployment_netlify",
+      "toNode": "n_deployment_pwa",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_deployment_netlify_deployment_build_netlify",
+      "fromNode": "n_deployment_netlify",
+      "toNode": "n_deployment_build_netlify",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_deployment_netlify_toml__community_netlify_deployment_netlify_deployment_community",
+      "fromNode": "n_deployment_netlify_toml",
+      "toNode": "n__community_netlify_deployment_netlify_deployment_community",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_deployment_netlify_toml_deployment_buildnetlify_script",
+      "fromNode": "n_deployment_netlify_toml",
+      "toNode": "n_deployment_buildnetlify_script",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_qrcode_library",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_qrcode_library",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_svg_rendering",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_svg_rendering",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_readme_react_qr_code",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_readme_react_qr_code",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_dots_style",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_dots_style",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_rounded_style",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_rounded_style",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_dots_qr_style",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_dots_qr_style",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_summary_rounded_qr_style",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_summary_rounded_qr_style",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_summary_custom_qr_engine_customqrcode_customqrcode",
+      "fromNode": "n_summary_custom_qr_engine",
+      "toNode": "n_customqrcode_customqrcode",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_summary_react_19_readme_react_js",
+      "fromNode": "n_summary_react_19",
+      "toNode": "n_readme_react_js",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_summary_error_boundaries_readme_qr_code_generator",
+      "fromNode": "n_summary_error_boundaries",
+      "toNode": "n_readme_qr_code_generator",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_summary_error_boundaries_errorboundary_errorboundary",
+      "fromNode": "n_summary_error_boundaries",
+      "toNode": "n_errorboundary_errorboundary",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_karan_veer_thakur",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_karan_veer_thakur",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_react_js",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_react_js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_react_qr_code",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_react_qr_code",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_netlify",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_netlify",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_data_types",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_data_types",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_qr_customization",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_qr_customization",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_dark_mode",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_dark_mode",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_live_preview",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_live_preview",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_indexhtml_seo_meta_tags",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_indexhtml_seo_meta_tags",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_readme_qr_code_generator_readme_dark_mode_toggle",
+      "fromNode": "n_readme_qr_code_generator",
+      "toNode": "n_readme_dark_mode_toggle",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_react_js_logo192_react_logo",
+      "fromNode": "n_readme_react_js",
+      "toNode": "n_logo192_react_logo",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_readme_react_js__community_react_framework_branding_react_framework_branding",
+      "fromNode": "n_readme_react_js",
+      "toNode": "n__community_react_framework_branding_react_framework_branding",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_react_js_deployment_summary_react_19",
+      "fromNode": "n_readme_react_js",
+      "toNode": "n_deployment_summary_react_19",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_readme_data_types_readme_data_type_selector",
+      "fromNode": "n_readme_data_types",
+      "toNode": "n_readme_data_type_selector",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_readme_data_types_readme_qr_service",
+      "fromNode": "n_readme_data_types",
+      "toNode": "n_readme_qr_service",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_logo192_react_logo_logo512_react_logo",
+      "fromNode": "n_logo192_react_logo",
+      "toNode": "n_logo512_react_logo",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_indexhtml_qr_studio_main_main_tsx",
+      "fromNode": "n_indexhtml_qr_studio",
+      "toNode": "n_main_main_tsx",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_indexhtml_qr_studio_indexhtml_karan_veer_thakur",
+      "fromNode": "n_indexhtml_qr_studio",
+      "toNode": "n_indexhtml_karan_veer_thakur",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_graphhtml_knowledge_graph_graph_report_graph_report",
+      "fromNode": "n_graphhtml_knowledge_graph",
+      "toNode": "n_graph_report_graph_report",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_app_app_app_js",
+      "fromNode": "n_app_app",
+      "toNode": "n_app_js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_app_app_app_test_app_test_js",
+      "fromNode": "n_app_app",
+      "toNode": "n_app_test_app_test_js",
+      "label": "references [AMBIGUOUS]"
+    },
+    {
+      "id": "e_customqrcode_customqrcode_customqrcode_js",
+      "fromNode": "n_customqrcode_customqrcode",
+      "toNode": "n_customqrcode_js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_dark_mode_toggle_darkmodetoggle_darkmodetoggle",
+      "fromNode": "n_readme_dark_mode_toggle",
+      "toNode": "n_darkmodetoggle_darkmodetoggle",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_darkmodetoggle_darkmodetoggle_darkmodetoggle_js",
+      "fromNode": "n_darkmodetoggle_darkmodetoggle",
+      "toNode": "n_darkmodetoggle_js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_datainputform_datainputform_datainputform_js",
+      "fromNode": "n_datainputform_datainputform",
+      "toNode": "n_datainputform_js",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_datainputform_datainputform__community_data_input_form_data_input_form",
+      "fromNode": "n_datainputform_datainputform",
+      "toNode": "n__community_data_input_form_data_input_form",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_datainputform_datainputform_datatypeselector_datatypeselector",
+      "fromNode": "n_datainputform_datainputform",
+      "toNode": "n_datatypeselector_datatypeselector",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_datainputform_datainputform_qrservice_generateqrdata",
+      "fromNode": "n_datainputform_datainputform",
+      "toNode": "n_qrservice_generateqrdata",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_datainputform_js__community_data_input_form_data_input_form",
+      "fromNode": "n_datainputform_js",
+      "toNode": "n__community_data_input_form_data_input_form",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_readme_datatype_selector_component_readme_multiple_data_types",
+      "fromNode": "n_readme_datatype_selector_component",
+      "toNode": "n_readme_multiple_data_types",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_readme_datatype_selector_component_datatypeselector_datatypeselector",
+      "fromNode": "n_readme_datatype_selector_component",
+      "toNode": "n_datatypeselector_datatypeselector",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_datatypeselector_datatypeselector_datatypeselector_js",
+      "fromNode": "n_datatypeselector_datatypeselector",
+      "toNode": "n_datatypeselector_js",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_datatypeselector_datatypeselector__community_data_type_selector_data_type_selector",
+      "fromNode": "n_datatypeselector_datatypeselector",
+      "toNode": "n__community_data_type_selector_data_type_selector",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_datatypeselector_js__community_data_type_selector_data_type_selector",
+      "fromNode": "n_datatypeselector_js",
+      "toNode": "n__community_data_type_selector_data_type_selector",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_js_errorboundary_errorboundary",
+      "fromNode": "n_errorboundary_js",
+      "toNode": "n_errorboundary_errorboundary",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_js__community_error_boundary_module_error_boundary_module",
+      "fromNode": "n_errorboundary_js",
+      "toNode": "n__community_error_boundary_module_error_boundary_module",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_js_errorboundary_class",
+      "fromNode": "n_errorboundary_js",
+      "toNode": "n_errorboundary_class",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_errorboundary_errorboundary_constructor",
+      "fromNode": "n_errorboundary_errorboundary",
+      "toNode": "n_errorboundary_constructor",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_errorboundary_errorboundary_getderivedstatefromerror",
+      "fromNode": "n_errorboundary_errorboundary",
+      "toNode": "n_errorboundary_getderivedstatefromerror",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_errorboundary_errorboundary_componentdidcatch",
+      "fromNode": "n_errorboundary_errorboundary",
+      "toNode": "n_errorboundary_componentdidcatch",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_errorboundary_errorboundary_render",
+      "fromNode": "n_errorboundary_errorboundary",
+      "toNode": "n_errorboundary_render",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_constructor__community_error_boundary_module_error_boundary_module",
+      "fromNode": "n_errorboundary_constructor",
+      "toNode": "n__community_error_boundary_module_error_boundary_module",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_constructor_errorboundary_class",
+      "fromNode": "n_errorboundary_constructor",
+      "toNode": "n_errorboundary_class",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_errorboundary_getderivedstatefromerror__community_error_boundary_module_error_boundary_module",
+      "fromNode": "n_errorboundary_getderivedstatefromerror",
+      "toNode": "n__community_error_boundary_module_error_boundary_module",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_getderivedstatefromerror_errorboundary_class",
+      "fromNode": "n_errorboundary_getderivedstatefromerror",
+      "toNode": "n_errorboundary_class",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_errorboundary_componentdidcatch__community_error_boundary_module_error_boundary_module",
+      "fromNode": "n_errorboundary_componentdidcatch",
+      "toNode": "n__community_error_boundary_module_error_boundary_module",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_componentdidcatch_errorboundary_class",
+      "fromNode": "n_errorboundary_componentdidcatch",
+      "toNode": "n_errorboundary_class",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_errorboundary_render__community_error_boundary_module_error_boundary_module",
+      "fromNode": "n_errorboundary_render",
+      "toNode": "n__community_error_boundary_module_error_boundary_module",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_errorboundary_render_errorboundary_class",
+      "fromNode": "n_errorboundary_render",
+      "toNode": "n_errorboundary_class",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_Footerjs_Footer()_Footerjs_Footer.js",
+      "fromNode": "n_Footerjs_Footer()",
+      "toNode": "n_Footerjs_Footer.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_qrServicejs_generateQRData()_qrServicejs_generateVCard()",
+      "fromNode": "n_qrServicejs_generateQRData()",
+      "toNode": "n_qrServicejs_generateVCard()",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_qrServicejs_generateQRData()_qrServicejs_qrService.js",
+      "fromNode": "n_qrServicejs_generateQRData()",
+      "toNode": "n_qrServicejs_qrService.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_qrServicejs_generateVCard()_qrServicejs_qrService.js",
+      "fromNode": "n_qrServicejs_generateVCard()",
+      "toNode": "n_qrServicejs_qrService.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_README_Karan Veer Thakur_README_QR Code Generator",
+      "fromNode": "n_README_Karan Veer Thakur",
+      "toNode": "n_README_QR Code Generator",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_README_Live Preview_README_QR Code Generator",
+      "fromNode": "n_README_Live Preview",
+      "toNode": "n_README_QR Code Generator",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_LivePreviewjs_LivePreview()_LivePreviewjs_LivePreview.js",
+      "fromNode": "n_LivePreviewjs_LivePreview()",
+      "toNode": "n_LivePreviewjs_LivePreview.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_README_Multiple Data Types_README_DataTypeSelector Component",
+      "fromNode": "n_README_Multiple Data Types",
+      "toNode": "n_README_DataTypeSelector Component",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_README_Multiple Data Types_README_QR Code Generator",
+      "fromNode": "n_README_Multiple Data Types",
+      "toNode": "n_README_QR Code Generator",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_README_Multiple Data Types_README_qrService",
+      "fromNode": "n_README_Multiple Data Types",
+      "toNode": "n_README_qrService",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_DEPLOYMENT_Netlify Deployment_README_Netlify Hosting",
+      "fromNode": "n_DEPLOYMENT_Netlify Deployment",
+      "toNode": "n_README_Netlify Hosting",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_DEPLOYMENT_Netlify Deployment_DEPLOYMENT_PWA Manifest",
+      "fromNode": "n_DEPLOYMENT_Netlify Deployment",
+      "toNode": "n_DEPLOYMENT_PWA Manifest",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_DEPLOYMENT_Netlify Deployment_DEPLOYMENT_buildnetlify Script",
+      "fromNode": "n_DEPLOYMENT_Netlify Deployment",
+      "toNode": "n_DEPLOYMENT_buildnetlify Script",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_DEPLOYMENT_Netlify Deployment_DEPLOYMENT_netlify.toml",
+      "fromNode": "n_DEPLOYMENT_Netlify Deployment",
+      "toNode": "n_DEPLOYMENT_netlify.toml",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_README_Netlify Hosting_README_QR Code Generator",
+      "fromNode": "n_README_Netlify Hosting",
+      "toNode": "n_README_QR Code Generator",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_indexhtml_PWA Manifest Link_DEPLOYMENT_PWA Manifest",
+      "fromNode": "n_indexhtml_PWA Manifest Link",
+      "toNode": "n_DEPLOYMENT_PWA Manifest",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_indexhtml_PWA Manifest Link_public_React Logo (PWA Icon)",
+      "fromNode": "n_indexhtml_PWA Manifest Link",
+      "toNode": "n_public_React Logo (PWA Icon)",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_Dark Mode Toggle",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_Dark Mode Toggle",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_Error Boundaries",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_Error Boundaries",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_QR Customization",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_QR Customization",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_React.js",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_React.js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_SEO Meta Tags",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_SEO Meta Tags",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_README_QR Code Generator_README_react-qr-code Library",
+      "fromNode": "n_README_QR Code Generator",
+      "toNode": "n_README_react-qr-code Library",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_DEPLOYMENT_SUMMARY_qrcode.js Library_DEPLOYMENT_SUMMARY_Custom QR Engine",
+      "fromNode": "n_DEPLOYMENT_SUMMARY_qrcode.js Library",
+      "toNode": "n_DEPLOYMENT_SUMMARY_Custom QR Engine",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_QRCodeDisplayjs_QRCodeDisplay()_QRCodeDisplayjs_QRCodeDisplay.js",
+      "fromNode": "n_QRCodeDisplayjs_QRCodeDisplay()",
+      "toNode": "n_QRCodeDisplayjs_QRCodeDisplay.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_QRCustomizationjs_QRCustomization()_QRCustomizationjs_QRCustomization.js",
+      "fromNode": "n_QRCustomizationjs_QRCustomization()",
+      "toNode": "n_QRCustomizationjs_QRCustomization.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_qrService.js_qrService.js_qrService.js_generateQRData()",
+      "fromNode": "n_qrService.js_qrService.js",
+      "toNode": "n_qrService.js_generateQRData()",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_qrService.js_qrService.js_qrService.js_generateVCard()",
+      "fromNode": "n_qrService.js_qrService.js",
+      "toNode": "n_qrService.js_generateVCard()",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_qrService.js_qrService.js_qrService.js_validateQRData()",
+      "fromNode": "n_qrService.js_qrService.js",
+      "toNode": "n_qrService.js_validateQRData()",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_qrService_qrService_qrService_Multiple Data Types",
+      "fromNode": "n_qrService_qrService",
+      "toNode": "n_qrService_Multiple Data Types",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_qrService_qrService__COMMUNITY_App Features Documentation_App Features Documentation",
+      "fromNode": "n_qrService_qrService",
+      "toNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_qrService_Multiple Data Types__COMMUNITY_App Features Documentation_App Features Documentation",
+      "fromNode": "n_qrService_Multiple Data Types",
+      "toNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_React 19_React 19_React.js_React.js",
+      "fromNode": "n_React 19_React 19",
+      "toNode": "n_React.js_React.js",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_React Atom SVG_React Atom SVG_React.js_React.js",
+      "fromNode": "n_React Atom SVG_React Atom SVG",
+      "toNode": "n_React.js_React.js",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_React Logo (PWA Icon)_React Logo (PWA Icon)_React Logo (PWA Icon)_PWA Manifest Link",
+      "fromNode": "n_React Logo (PWA Icon)_React Logo (PWA Icon)",
+      "toNode": "n_React Logo (PWA Icon)_PWA Manifest Link",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_React Logo (PWA Icon)_React Logo (PWA Icon)_React Logo 512px_React Logo 512px",
+      "fromNode": "n_React Logo (PWA Icon)_React Logo (PWA Icon)",
+      "toNode": "n_React Logo 512px_React Logo 512px",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_React Logo (PWA Icon)_React Logo (PWA Icon)_React.js_React.js",
+      "fromNode": "n_React Logo (PWA Icon)_React Logo (PWA Icon)",
+      "toNode": "n_React.js_React.js",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_react-qr-code Library_react-qr-code Library_react-qr-code Library_Custom QR Engine",
+      "fromNode": "n_react-qr-code Library_react-qr-code Library",
+      "toNode": "n_react-qr-code Library_Custom QR Engine",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_react-qr-code Library_react-qr-code Library_QR Code Generator",
+      "fromNode": "n_react-qr-code Library_react-qr-code Library",
+      "toNode": "n_react-qr-code Library_QR Code Generator",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_react-qr-code Library__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "fromNode": "n_react-qr-code Library_react-qr-code Library",
+      "toNode": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_Custom QR Engine_Rounded QR Style_Rounded QR Style",
+      "fromNode": "n_react-qr-code Library_Custom QR Engine",
+      "toNode": "n_Rounded QR Style_Rounded QR Style",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_Custom QR Engine_SVG Rendering_SVG Rendering",
+      "fromNode": "n_react-qr-code Library_Custom QR Engine",
+      "toNode": "n_SVG Rendering_SVG Rendering",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_Custom QR Engine__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "fromNode": "n_react-qr-code Library_Custom QR Engine",
+      "toNode": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_QR Code Generator_React.js_React.js",
+      "fromNode": "n_react-qr-code Library_QR Code Generator",
+      "toNode": "n_React.js_React.js",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_QR Code Generator_SEO Meta Tags_SEO Meta Tags",
+      "fromNode": "n_react-qr-code Library_QR Code Generator",
+      "toNode": "n_SEO Meta Tags_SEO Meta Tags",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_QR Code Generator__COMMUNITY_App Features Documentation_App Features Documentation",
+      "fromNode": "n_react-qr-code Library_QR Code Generator",
+      "toNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_react-qr-code Library_QR Code Generator__COMMUNITY_App Features Documentation__COMMUNITY_React Framework Branding",
+      "fromNode": "n_react-qr-code Library_QR Code Generator",
+      "toNode": "n__COMMUNITY_App Features Documentation__COMMUNITY_React Framework Branding",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_react-qr-code Library_QR Code Generator__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "fromNode": "n_react-qr-code Library_QR Code Generator",
+      "toNode": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_reportWebVitals()_reportWebVitals()_reportWebVitals.js_reportWebVitals.js",
+      "fromNode": "n_reportWebVitals()_reportWebVitals()",
+      "toNode": "n_reportWebVitals.js_reportWebVitals.js",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_Rounded QR Style_Rounded QR Style__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "fromNode": "n_Rounded QR Style_Rounded QR Style",
+      "toNode": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_SEO Meta Tags_SEO Meta Tags__COMMUNITY_App Features Documentation_App Features Documentation",
+      "fromNode": "n_SEO Meta Tags_SEO Meta Tags",
+      "toNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_SVG Rendering_SVG Rendering__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "fromNode": "n_SVG Rendering_SVG Rendering",
+      "toNode": "n__COMMUNITY_Custom QR Engine_Custom QR Engine",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e__COMMUNITY_App Entry Point_App Entry Point__COMMUNITY_App Entry Point_index.js",
+      "fromNode": "n__COMMUNITY_App Entry Point_App Entry Point",
+      "toNode": "n__COMMUNITY_App Entry Point_index.js",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e__COMMUNITY_App Features Documentation_App Features Documentation__COMMUNITY_App Features Documentation_Dark Mode Toggle",
+      "fromNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "toNode": "n__COMMUNITY_App Features Documentation_Dark Mode Toggle",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e__COMMUNITY_App Features Documentation_App Features Documentation__COMMUNITY_App Features Documentation_DataTypeSelector Component",
+      "fromNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "toNode": "n__COMMUNITY_App Features Documentation_DataTypeSelector Component",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e__COMMUNITY_App Features Documentation_App Features Documentation__COMMUNITY_App Features Documentation_Error Boundaries",
+      "fromNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "toNode": "n__COMMUNITY_App Features Documentation_Error Boundaries",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e__COMMUNITY_App Features Documentation_App Features Documentation__COMMUNITY_App Features Documentation_Karan Veer Thakur",
+      "fromNode": "n__COMMUNITY_App Features Documentation_App Features Documentation",
+      "toNode": "n__COMMUNITY_App Features Documentation_Karan Veer Thakur",
+      "label": "shares_data_with [EXTRACTED]"
+    }
+  ]
+}
