@@ -1,4 +1,4 @@
-import { Globe, Heart } from "lucide-react";
+import { Globe } from "lucide-react";
 
 function GithubIcon({ className }: { className?: string }) {
   return (
@@ -11,9 +11,7 @@ function GithubIcon({ className }: { className?: string }) {
 export function Footer() {
   return (
     <footer className="mx-auto w-full max-w-6xl px-4 py-10 text-center">
-      
-
-      <div className="mt-3 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm">
+      <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm">
         <a
           href="https://github.com/karanveerthakur1122/qr-generator"
           target="_blank"
