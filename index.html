@@ -2,28 +2,79 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="theme-color" content="#0F172A" />
+
+    <!-- Primary -->
+    <title>QR Studio – Free Custom QR Code Generator (WiFi, vCard, URL)</title>
     <meta
       name="description"
-      content="QR Studio - create premium, customizable QR codes with a smooth step-by-step flow. 12 data types, batch generation, history, and PNG/SVG/JPG/PDF export."
+      content="Free online QR code generator. Create custom, high-resolution QR codes for URLs, WiFi, vCard contacts, email, SMS and more. 12 data types, batch generation, and PNG/SVG/JPG/PDF export – no sign-up, runs fully in your browser."
     />
-    <meta name="keywords" content="QR code generator, custom QR codes, liquid glass, QR studio, batch QR, wifi QR, vCard QR" />
+    <meta name="keywords" content="QR code generator, free QR code, custom QR code, WiFi QR code, vCard QR code, URL QR code, batch QR code generator, SVG QR code, QR studio" />
     <meta name="author" content="Karan Veer Thakur" />
-    <meta property="og:title" content="QR Studio - Premium QR Code Generator" />
-    <meta property="og:description" content="Create beautiful, customizable QR codes with a smooth Liquid Glass interface." />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#0F172A" />
+    <link rel="canonical" href="https://qr-generator-free-app.netlify.app/" />
+
+    <!-- Icons / PWA -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/logo192.png" />
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Open Graph -->
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="QR Studio" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://qr-generator-free-app.netlify.app/" />
+    <meta property="og:title" content="QR Studio – Free Custom QR Code Generator" />
+    <meta property="og:description" content="Create custom, high-resolution QR codes for URLs, WiFi, vCard, email and more. 12 data types, batch export, no sign-up." />
+    <meta property="og:image" content="https://qr-generator-free-app.netlify.app/logo512.png" />
+    <meta property="og:image:alt" content="QR Studio – custom QR code generator" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="QR Studio – Free Custom QR Code Generator" />
+    <meta name="twitter:description" content="Create custom, high-resolution QR codes for URLs, WiFi, vCard, email and more. No sign-up, runs in your browser." />
+    <meta name="twitter:image" content="https://qr-generator-free-app.netlify.app/logo512.png" />
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <title>QR Studio - Premium QR Code Generator</title>
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "QR Studio",
+        "url": "https://qr-generator-free-app.netlify.app/",
+        "description": "Free online QR code generator with 12 data types, batch generation, and PNG/SVG/JPG/PDF export.",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Any",
+        "browserRequirements": "Requires JavaScript",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "author": {
+          "@type": "Person",
+          "name": "Karan Veer Thakur",
+          "url": "https://karanveerthakur.com.np/"
+        }
+      }
+    </script>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run QR Studio.</noscript>
+    <noscript>
+      <h1>QR Studio – Free Custom QR Code Generator</h1>
+      <p>
+        QR Studio creates custom QR codes for URLs, WiFi, vCard contacts, email,
+        SMS and more, with PNG/SVG/JPG/PDF export. Please enable JavaScript to
+        use the generator.
+      </p>
+    </noscript>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
