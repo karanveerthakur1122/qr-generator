@@ -43,7 +43,7 @@ export const DEFAULT_CUSTOMIZATION: QRCustomization = {
   style: "rounded",
   logoImage: null,
   logoSize: 56,
-  errorCorrection: "H",
+  errorCorrection: "L",
   gradient: false,
   gradientColors: ["#34d399", "#8b5cf6"],
   shadow: true,
