@@ -8,6 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { GlassBackground } from "@/components/glass/glass-background";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { SeoContent } from "@/components/layout/seo-content";
 import { WizardShell } from "@/components/wizard/wizard-shell";
 import { QRPreview } from "@/components/qr/qr-preview";
 import { BatchGenerator } from "@/components/batch/batch-generator";
@@ -54,7 +55,7 @@ export default function App() {
                 12 data types - fully customizable
               </span>
               <h1 className="mt-5 text-balance text-4xl font-semibold tracking-tight sm:text-5xl">
-                Beautiful QR codes,
+                Free QR code generator,
                 <span className="bg-gradient-to-r from-emerald-400 to-violet-500 bg-clip-text text-transparent">
                   {" "}
                   made simple
@@ -88,6 +89,7 @@ export default function App() {
                 <BatchGenerator />
               </TabsContent>
             </Tabs>
+            <SeoContent />
           </main>
 
           <Footer />

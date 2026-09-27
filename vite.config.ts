@@ -1,10 +1,25 @@
-import { defineConfig } from "vite";
+import { defineConfig, type Plugin } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import path from "node:path";
 
+import { structuredData } from "./src/lib/seo";
+
+function injectStructuredData(): Plugin {
+  return {
+    name: "inject-structured-data",
+    transformIndexHtml(html) {
+      const json = JSON.stringify(structuredData()).replace(/</g, "\\u003c");
+      return html.replace(
+        "<!-- STRUCTURED_DATA -->",
+        `<script type="application/ld+json">${json}</script>`
+      );
+    },
+  };
+}
+
 export default defineConfig({
-  plugins: [react(), tailwindcss()],
+  plugins: [react(), tailwindcss(), injectStructuredData()],
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

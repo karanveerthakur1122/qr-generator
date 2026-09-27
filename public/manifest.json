@@ -1,7 +1,7 @@
 {
   "short_name": "QR Studio",
   "name": "QR Studio - Premium QR Code Generator",
-  "description": "Create beautiful, customizable QR codes with a smooth Liquid Glass interface.",
+  "description": "Free custom QR code generator for links, Wi-Fi, vCard, and more. Runs in your browser.",
   "icons": [
     {
       "src": "favicon.svg",
