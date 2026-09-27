@@ -99,6 +99,8 @@ export const FIELD_CONFIG: Record<QRType, FieldDef[]> = {
     { name: "organization", label: "Organization", kind: "text", placeholder: "Acme Inc." },
     { name: "title", label: "Job title", kind: "text", placeholder: "Product Designer" },
     { name: "contactPhone", label: "Phone", kind: "tel", placeholder: "+1 555 123 4567" },
+    { name: "contactAltPhone", label: "Alternate phone", kind: "tel", placeholder: "+1 555 987 6543" },
+    { name: "contactTelephone", label: "Telephone", kind: "tel", placeholder: "+1 555 000 1111" },
     { name: "contactEmail", label: "Email", kind: "email", placeholder: "john@example.com" },
     { name: "website", label: "Website", kind: "text", placeholder: "https://example.com", colSpan: 2 },
     { name: "address", label: "Address", kind: "textarea", placeholder: "123 Main St, City", colSpan: 2 },

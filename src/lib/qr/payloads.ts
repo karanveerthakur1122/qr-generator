@@ -19,6 +19,8 @@ function buildVCard(data: QRFormData): string {
     firstName = "",
     lastName = "",
     contactPhone = "",
+    contactAltPhone = "",
+    contactTelephone = "",
     contactEmail = "",
     organization = "",
     title = "",
@@ -34,6 +36,8 @@ function buildVCard(data: QRFormData): string {
   if (organization) lines.push(`ORG:${organization}`);
   if (title) lines.push(`TITLE:${title}`);
   if (contactPhone) lines.push(`TEL:${contactPhone}`);
+  if (contactAltPhone) lines.push(`TEL;TYPE=CELL:${contactAltPhone}`);
+  if (contactTelephone) lines.push(`TEL;TYPE=HOME:${contactTelephone}`);
   if (contactEmail) lines.push(`EMAIL:${contactEmail}`);
   if (website) lines.push(`URL:${website}`);
   if (address) lines.push(`ADR:;;${address};;;;`);

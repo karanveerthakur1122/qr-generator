@@ -1,0 +1,177 @@
+{
+  "nodes": [
+    {
+      "id": "public_logo192_reactlogo",
+      "label": "React Atom Logo",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_nucleus",
+      "label": "Central Nucleus Disc",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_orbits",
+      "label": "Three Elliptical Orbits",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_palette",
+      "label": "Cyan on Black Palette",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_iconlayout",
+      "label": "Centered Square Icon Layout",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_reactbrand",
+      "label": "React Framework Brand",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_appicon",
+      "label": "192px App Icon Role",
+      "file_type": "rationale",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo192_stockasset",
+      "label": "Stock Create React App Icon",
+      "file_type": "rationale",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "public_logo192_reactlogo",
+      "target": "public_logo192_nucleus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_reactlogo",
+      "target": "public_logo192_orbits",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_orbits",
+      "target": "public_logo192_nucleus",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_reactlogo",
+      "target": "public_logo192_palette",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_reactlogo",
+      "target": "public_logo192_iconlayout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_reactlogo",
+      "target": "public_logo192_reactbrand",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_appicon",
+      "target": "public_logo192_reactlogo",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo192_stockasset",
+      "target": "public_logo192_reactlogo",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.25,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo192.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

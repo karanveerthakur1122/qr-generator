@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    {
+      "id": "public_logo512_react_logo",
+      "label": "React Logo",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_nucleus",
+      "label": "Central Nucleus Disc",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_orbital_ellipses",
+      "label": "Three Intersecting Orbital Ellipses",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_react_cyan",
+      "label": "React Cyan (#61DAFB)",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_transparent_background",
+      "label": "Transparent Background",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_atom_motif",
+      "label": "Atom Motif",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_react_brand",
+      "label": "React Brand",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_app_icon",
+      "label": "512px App Icon",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_logo512_black_preview",
+      "label": "Black Preview Backdrop",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "public_logo512_orbital_ellipses",
+      "target": "public_logo512_nucleus",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_nucleus",
+      "target": "public_logo512_react_logo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_orbital_ellipses",
+      "target": "public_logo512_react_logo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_react_cyan",
+      "target": "public_logo512_react_logo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_transparent_background",
+      "target": "public_logo512_react_logo",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_atom_motif",
+      "target": "public_logo512_react_logo",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_react_logo",
+      "target": "public_logo512_react_brand",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_react_logo",
+      "target": "public_logo512_app_icon",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_logo512_black_preview",
+      "target": "public_logo512_transparent_background",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.2,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "public_logo512_atom_mark",
+      "label": "Cyan Atom Mark",
+      "nodes": [
+        "public_logo512_nucleus",
+        "public_logo512_orbital_ellipses",
+        "public_logo512_react_cyan"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\logo512.png"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

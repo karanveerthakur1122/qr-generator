@@ -1,0 +1,9 @@
+D:\WebDev\qr-generator\DEPLOYMENT.md
+D:\WebDev\qr-generator\DEPLOYMENT_SUMMARY.md
+D:\WebDev\qr-generator\README.md
+D:\WebDev\qr-generator\index.html
+D:\WebDev\qr-generator\public\robots.txt
+D:\WebDev\qr-generator\public\favicon.svg
+D:\WebDev\qr-generator\public\logo192.png
+D:\WebDev\qr-generator\public\logo512.png
+D:\WebDev\qr-generator\public\og-image.png

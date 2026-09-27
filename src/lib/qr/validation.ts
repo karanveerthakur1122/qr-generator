@@ -76,6 +76,8 @@ export const qrSchemas = {
       organization: z.string().optional().or(z.literal("")),
       title: z.string().optional().or(z.literal("")),
       contactPhone: z.string().optional().or(z.literal("")),
+      contactAltPhone: z.string().optional().or(z.literal("")),
+      contactTelephone: z.string().optional().or(z.literal("")),
       contactEmail: z
         .string()
         .email("Enter a valid email")

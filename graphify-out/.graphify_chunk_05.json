@@ -1,0 +1,275 @@
+{
+  "nodes": [
+    {
+      "id": "public_og_image_socialpreview",
+      "label": "Open Graph Social Preview",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_qrstudio",
+      "label": "QR Studio",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_tagline",
+      "label": "Free Custom QR Code Generator",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_logomark",
+      "label": "Stylized QR Logomark",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_finderpatterns",
+      "label": "Rounded Finder Patterns",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_moduledots",
+      "label": "Module Dot Grid",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_navybackground",
+      "label": "Dark Navy Background",
+      "file_type": "image",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_tealvioletgradient",
+      "label": "Teal-to-Violet Gradient",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_qrmotif",
+      "label": "QR Code Motif",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_og_image_opengraph",
+      "label": "Open Graph Share Card",
+      "file_type": "concept",
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "public_og_image_socialpreview",
+      "target": "public_og_image_qrstudio",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_socialpreview",
+      "target": "public_og_image_tagline",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_socialpreview",
+      "target": "public_og_image_logomark",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_socialpreview",
+      "target": "public_og_image_navybackground",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_logomark",
+      "target": "public_og_image_finderpatterns",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_logomark",
+      "target": "public_og_image_moduledots",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_logomark",
+      "target": "public_og_image_tealvioletgradient",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_qrstudio",
+      "target": "public_og_image_qrmotif",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_tagline",
+      "target": "public_og_image_qrmotif",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_finderpatterns",
+      "target": "public_og_image_qrmotif",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_moduledots",
+      "target": "public_og_image_qrmotif",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_socialpreview",
+      "target": "public_og_image_opengraph",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_qrstudio",
+      "target": "public_og_image_tagline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_og_image_logomark",
+      "target": "public_og_image_qrstudio",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "public_og_image_brandlockup",
+      "label": "Centered brand lockup",
+      "nodes": [
+        "public_og_image_logomark",
+        "public_og_image_qrstudio",
+        "public_og_image_tagline"
+      ],
+      "relation": "composes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\WebDev\\qr-generator\\public\\og-image.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
